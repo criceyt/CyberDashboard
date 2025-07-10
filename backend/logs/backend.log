@@ -1,0 +1,1478 @@
+2025-07-06 10:38:03,181 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-06 10:38:03,181 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-06 10:38:03,183 [INFO]:  * Restarting with stat
+2025-07-06 10:38:03,624 [WARNING]:  * Debugger is active!
+2025-07-06 10:38:03,629 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 10:38:40,255 [INFO]: Iniciando escaneo para: 127.0.0.1
+2025-07-06 10:38:40,258 [ERROR]: Error al escanear 127.0.0.1: 'nmap program was not found in path. PATH is : C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\venv\\Scripts;C:\\Program Files (x86)\\VMware\\VMware Workstation\\bin\\;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Users\\crice;C:\\Program Files (x86)\\Razer Chroma SDK\\bin;C:\\Program Files\\Razer Chroma SDK\\bin;C:\\Program Files (x86)\\Razer\\ChromaBroadcast\\bin;C:\\Program Files\\Razer\\ChromaBroadcast\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Users\\crice\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\dotnet\\;C:\\Program Files\\nodejs\\;C:\\Program Files (x86)\\BaseX\\bin;C:\\Users\\crice\\AppData\\Local\\Programs\\Python\\Python313\\Scripts;C:\\Users\\crice\\AppData\\Local\\Programs\\Python\\Python313;C:\\Program Files\\NVIDIA Corporation\\NVIDIA app\\NvDLISR;C:\\Program Files\\Java\\jdk-11.0.8\\bin;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\System32\\Wbem;C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\;C:\\WINDOWS\\System32\\OpenSSH\\;C:\\Program Files\\Git\\cmd;C:\\Program Files (x86)\\WiX Toolset v3.11\\bin;C:\\Program Files (x86)\\Windows Kits\\10\\Windows Performance Toolkit\\;C:\\Program Files\\Docker\\Docker\\resources\\bin;C:\\Users\\crice\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\crice\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\crice\\AppData\\Roaming\\npm;C:\\Maven\\apache-maven-3.9.9\\bin;C:\\Users\\crice\\AppData\\Local\\GitHubDesktop\\bin;C:\\Users\\crice\\Desktop\\Flutter\\flutter\\bin;c:\\Users\\crice\\.vscode\\extensions\\ms-python.debugpy-2025.8.0-win32-x64\\bundled\\scripts\\noConfigScripts'
+2025-07-06 10:38:40,260 [INFO]: 127.0.0.1 - - [06/Jul/2025 10:38:40] "[35m[1mPOST /api/scan HTTP/1.1[0m" 500 -
+2025-07-06 10:41:27,719 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-06 10:41:27,719 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-06 10:41:27,721 [INFO]:  * Restarting with stat
+2025-07-06 10:45:12,941 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-06 10:45:12,942 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-06 10:45:12,945 [INFO]:  * Restarting with stat
+2025-07-06 10:45:13,370 [WARNING]:  * Debugger is active!
+2025-07-06 10:45:13,375 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 10:45:16,271 [INFO]: Iniciando escaneo para: 127.0.0.1
+2025-07-06 10:45:18,199 [INFO]: Escaneo completado para: 127.0.0.1
+2025-07-06 10:45:18,200 [INFO]: 127.0.0.1 - - [06/Jul/2025 10:45:18] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 10:45:34,736 [INFO]: Iniciando escaneo para: 127.0.0.1
+2025-07-06 10:45:36,661 [INFO]: Escaneo completado para: 127.0.0.1
+2025-07-06 10:45:36,661 [INFO]: 127.0.0.1 - - [06/Jul/2025 10:45:36] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 10:45:53,924 [INFO]: Iniciando escaneo para: 127.0.0.1
+2025-07-06 10:45:55,819 [INFO]: Escaneo completado para: 127.0.0.1
+2025-07-06 10:45:55,820 [INFO]: 127.0.0.1 - - [06/Jul/2025 10:45:55] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 11:09:49,373 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:09:49] "GET /apidocs/ HTTP/1.1" 200 -
+2025-07-06 11:09:49,537 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:09:49] "GET /flasgger_static/swagger-ui.css HTTP/1.1" 200 -
+2025-07-06 11:09:49,582 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:09:49] "GET /flasgger_static/lib/jquery.min.js HTTP/1.1" 200 -
+2025-07-06 11:09:49,634 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:09:49] "GET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1" 200 -
+2025-07-06 11:09:49,743 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:09:49] "GET /flasgger_static/swagger-ui-bundle.js HTTP/1.1" 200 -
+2025-07-06 11:09:49,850 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:09:49] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-07-06 11:09:49,903 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:09:49] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2025-07-06 11:11:05,927 [INFO]: Iniciando escaneo para: scanme.nmap.org
+2025-07-06 11:11:26,439 [ERROR]: Error al escanear scanme.nmap.org: 'scanme.nmap.org'
+2025-07-06 11:11:26,439 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:11:26] "[35m[1mPOST /api/scan HTTP/1.1[0m" 500 -
+2025-07-06 11:12:26,289 [INFO]: Iniciando escaneo para: scanme.nmap.org
+2025-07-06 11:12:58,409 [ERROR]: Error al escanear scanme.nmap.org: 'scanme.nmap.org'
+2025-07-06 11:12:58,409 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:12:58] "[35m[1mPOST /api/scan HTTP/1.1[0m" 500 -
+2025-07-06 11:16:04,715 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-06 11:16:04,771 [INFO]:  * Restarting with stat
+2025-07-06 11:16:05,236 [WARNING]:  * Debugger is active!
+2025-07-06 11:16:05,242 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 11:16:18,225 [INFO]: Iniciando escaneo para: scanme.nmap.org
+2025-07-06 11:16:37,163 [ERROR]: Error al escanear scanme.nmap.org: 'scanme.nmap.org'
+2025-07-06 11:16:37,164 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:16:37] "[35m[1mPOST /api/scan HTTP/1.1[0m" 500 -
+2025-07-06 11:16:54,068 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-06 11:16:54,104 [INFO]:  * Restarting with stat
+2025-07-06 11:16:54,544 [WARNING]:  * Debugger is active!
+2025-07-06 11:16:54,549 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 11:16:56,927 [INFO]: Iniciando escaneo para: scanme.nmap.org
+2025-07-06 11:17:21,158 [ERROR]: Error al escanear scanme.nmap.org: 'scanme.nmap.org'
+2025-07-06 11:17:21,159 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:17:21] "[35m[1mPOST /api/scan HTTP/1.1[0m" 500 -
+2025-07-06 11:17:23,159 [INFO]: Iniciando escaneo para: scanme.nmap.org
+2025-07-06 11:17:44,207 [ERROR]: Error al escanear scanme.nmap.org: 'scanme.nmap.org'
+2025-07-06 11:17:44,207 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:17:44] "[35m[1mPOST /api/scan HTTP/1.1[0m" 500 -
+2025-07-06 11:18:31,420 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-06 11:18:31,495 [INFO]:  * Restarting with stat
+2025-07-06 11:18:31,949 [WARNING]:  * Debugger is active!
+2025-07-06 11:18:31,954 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 11:18:37,818 [INFO]: Iniciando escaneo para: scanme.nmap.org
+2025-07-06 11:18:57,722 [INFO]: Escaneo completado para: scanme.nmap.org
+2025-07-06 11:18:57,723 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:18:57] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 11:19:53,438 [INFO]: Iniciando escaneo para: 8.8.8.8
+2025-07-06 11:20:17,848 [INFO]: Escaneo completado para: 8.8.8.8
+2025-07-06 11:20:17,848 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:20:17] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 11:20:29,514 [WARNING]: Petición sin objetivo
+2025-07-06 11:20:29,514 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:20:29] "[31m[1mPOST /api/scan HTTP/1.1[0m" 400 -
+2025-07-06 11:22:58,879 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-06 11:22:58,923 [INFO]:  * Restarting with stat
+2025-07-06 11:22:59,354 [WARNING]:  * Debugger is active!
+2025-07-06 11:22:59,360 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 11:23:02,526 [WARNING]: Petición sin objetivo
+2025-07-06 11:23:02,527 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:23:02] "[31m[1mPOST /api/scan HTTP/1.1[0m" 400 -
+2025-07-06 11:23:09,578 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-06 11:23:09,613 [INFO]:  * Restarting with stat
+2025-07-06 11:23:10,071 [WARNING]:  * Debugger is active!
+2025-07-06 11:23:10,076 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 11:23:12,029 [WARNING]: Petición sin objetivo
+2025-07-06 11:23:12,030 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:23:12] "[31m[1mPOST /api/scan HTTP/1.1[0m" 400 -
+2025-07-06 11:23:22,267 [WARNING]: Objetivo inválido: dominio_no_valido
+2025-07-06 11:23:22,267 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:23:22] "[31m[1mPOST /api/scan HTTP/1.1[0m" 400 -
+2025-07-06 11:23:46,506 [INFO]: Iniciando escaneo para: 192.168.1.1
+2025-07-06 11:23:49,719 [INFO]: Escaneo completado para: 192.168.1.1
+2025-07-06 11:23:49,720 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:23:49] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 11:24:13,597 [INFO]: Iniciando escaneo para: 192.168.1.145
+2025-07-06 11:24:38,475 [INFO]: Escaneo completado para: 192.168.1.145
+2025-07-06 11:24:38,475 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:24:38] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 11:25:17,811 [INFO]: Iniciando escaneo para: 8.8.8.8
+2025-07-06 11:25:31,977 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:25:31] "[31m[1mPOST /api/scan HTTP/1.1[0m" 400 -
+2025-07-06 11:25:41,792 [INFO]: Escaneo completado para: 8.8.8.8
+2025-07-06 11:25:41,792 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:25:41] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 11:26:30,891 [INFO]: Iniciando escaneo para: ekain.duckdns.org
+2025-07-06 11:26:32,764 [INFO]: Escaneo completado para: ekain.duckdns.org
+2025-07-06 11:26:32,765 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:26:32] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 11:30:00,926 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-06 11:30:00,983 [INFO]:  * Restarting with stat
+2025-07-06 11:30:01,398 [WARNING]:  * Debugger is active!
+2025-07-06 11:30:01,403 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 11:30:07,295 [INFO]: Iniciando escaneo para: ekain.duckdns.org
+2025-07-06 11:30:17,831 [INFO]: Escaneo completado para: ekain.duckdns.org
+2025-07-06 11:30:17,832 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:30:17] "POST /api/scan HTTP/1.1" 200 -
+2025-07-06 11:30:55,467 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-06 11:30:55,515 [INFO]:  * Restarting with stat
+2025-07-06 11:30:55,981 [WARNING]:  * Debugger is active!
+2025-07-06 11:30:55,986 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 11:46:27,268 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-06 11:46:27,269 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-06 11:46:27,270 [INFO]:  * Restarting with stat
+2025-07-06 11:46:27,705 [WARNING]:  * Debugger is active!
+2025-07-06 11:46:27,710 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-06 11:46:29,085 [INFO]: Iniciando escaneo para: 8.8.8.8
+2025-07-06 11:46:44,821 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:46:44] "GET /apidocs/ HTTP/1.1" 200 -
+2025-07-06 11:46:44,976 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:46:44] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-07-06 11:46:44,979 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:46:44] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-07-06 11:46:44,981 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:46:44] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-07-06 11:46:44,982 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:46:44] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-07-06 11:46:45,098 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:46:45] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-07-06 11:46:53,878 [INFO]: Escaneo completado para: 8.8.8.8
+2025-07-06 11:46:53,878 [INFO]: 127.0.0.1 - - [06/Jul/2025 11:46:53] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 11:18:36,861 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 11:18:36,862 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 11:18:36,864 [INFO]:  * Restarting with stat
+2025-07-07 11:18:37,296 [WARNING]:  * Debugger is active!
+2025-07-07 11:18:37,302 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:18:41,741 [INFO]: Iniciando escaneo para: 8.8.8.8
+2025-07-07 11:18:59,840 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:18:59] "GET /apidocs/ HTTP/1.1" 200 -
+2025-07-07 11:18:59,994 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:18:59] "[36mGET /flasgger_static/swagger-ui.css HTTP/1.1[0m" 304 -
+2025-07-07 11:19:00,034 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:19:00] "[36mGET /flasgger_static/lib/jquery.min.js HTTP/1.1[0m" 304 -
+2025-07-07 11:19:00,086 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:19:00] "[36mGET /flasgger_static/swagger-ui-standalone-preset.js HTTP/1.1[0m" 304 -
+2025-07-07 11:19:00,195 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:19:00] "[36mGET /flasgger_static/swagger-ui-bundle.js HTTP/1.1[0m" 304 -
+2025-07-07 11:19:00,340 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:19:00] "GET /apispec_1.json HTTP/1.1" 200 -
+2025-07-07 11:19:00,341 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:19:00] "GET /flasgger_static/favicon-32x32.png HTTP/1.1" 200 -
+2025-07-07 11:19:06,208 [INFO]: Escaneo completado para: 8.8.8.8
+2025-07-07 11:19:06,209 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:19:06] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 11:39:55,976 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 11:39:55,977 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 11:39:55,978 [INFO]:  * Restarting with stat
+2025-07-07 11:39:56,457 [WARNING]:  * Debugger is active!
+2025-07-07 11:39:56,462 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:40:23,342 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:40:23] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-07-07 11:41:12,022 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-07 11:41:12,068 [INFO]:  * Restarting with stat
+2025-07-07 11:41:12,543 [WARNING]:  * Debugger is active!
+2025-07-07 11:41:12,548 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:41:16,168 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:41:16] "[33mPOST /api/login HTTP/1.1[0m" 404 -
+2025-07-07 11:41:49,305 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\auth.py', reloading
+2025-07-07 11:41:49,379 [INFO]:  * Restarting with stat
+2025-07-07 11:41:49,813 [WARNING]:  * Debugger is active!
+2025-07-07 11:41:49,818 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:41:53,876 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:41:53] "POST /api/login HTTP/1.1" 200 -
+2025-07-07 11:45:33,108 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 11:45:33,151 [INFO]:  * Restarting with stat
+2025-07-07 11:45:33,648 [WARNING]:  * Debugger is active!
+2025-07-07 11:45:33,652 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:46:59,354 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-07 11:46:59,401 [INFO]:  * Restarting with stat
+2025-07-07 11:48:40,413 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 11:48:40,414 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 11:48:40,415 [INFO]:  * Restarting with stat
+2025-07-07 11:48:40,843 [WARNING]:  * Debugger is active!
+2025-07-07 11:48:40,847 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:56:56,645 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 11:56:56,702 [INFO]:  * Restarting with stat
+2025-07-07 11:56:57,265 [WARNING]:  * Debugger is active!
+2025-07-07 11:56:57,272 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:58:23,999 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 11:58:24,046 [INFO]:  * Restarting with stat
+2025-07-07 11:58:24,505 [WARNING]:  * Debugger is active!
+2025-07-07 11:58:24,510 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:58:44,956 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-07 11:58:45,004 [INFO]:  * Restarting with stat
+2025-07-07 11:58:45,449 [WARNING]:  * Debugger is active!
+2025-07-07 11:58:45,454 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 11:59:53,859 [INFO]: 127.0.0.1 - - [07/Jul/2025 11:59:53] "[31m[1mPOST /api/scan HTTP/1.1[0m" 422 -
+2025-07-07 12:02:21,601 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\scripts\\token.py', reloading
+2025-07-07 12:02:21,645 [INFO]:  * Restarting with stat
+2025-07-07 12:02:22,146 [WARNING]:  * Debugger is active!
+2025-07-07 12:02:22,151 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 12:03:03,733 [INFO]: 127.0.0.1 - - [07/Jul/2025 12:03:03] "POST /api/login HTTP/1.1" 200 -
+2025-07-07 12:04:27,020 [INFO]: 127.0.0.1 - - [07/Jul/2025 12:04:27] "POST /api/login HTTP/1.1" 200 -
+2025-07-07 12:05:25,923 [INFO]: Iniciando escaneo para: 192.168.1.1 en modo fast
+2025-07-07 12:05:28,036 [INFO]: Escaneo completado para: 192.168.1.1
+2025-07-07 12:05:28,037 [INFO]: Iniciando escaneo para: 192.168.1.2 en modo fast
+2025-07-07 12:05:34,331 [ERROR]: Error al escanear: '192.168.1.2'
+2025-07-07 12:05:34,331 [INFO]: 127.0.0.1 - - [07/Jul/2025 12:05:34] "[35m[1mPOST /api/scan HTTP/1.1[0m" 500 -
+2025-07-07 12:08:18,144 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-07 12:08:18,188 [INFO]:  * Restarting with stat
+2025-07-07 12:08:18,700 [WARNING]:  * Debugger is active!
+2025-07-07 12:08:18,705 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 12:10:31,403 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-07 12:10:31,453 [INFO]:  * Restarting with stat
+2025-07-07 12:12:42,497 [INFO]:  * Restarting with stat
+2025-07-07 13:19:02,412 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 13:19:02,412 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 13:19:02,414 [INFO]:  * Restarting with stat
+2025-07-07 13:19:02,907 [WARNING]:  * Debugger is active!
+2025-07-07 13:19:02,913 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:19:36,767 [INFO]: Petición de escaneo recibida para target=192.168.1.1-192.168.1.3 modo=fast
+2025-07-07 13:19:36,767 [INFO]: Iniciando escaneo para target: 192.168.1.1-192.168.1.3
+2025-07-07 13:19:36,793 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.1,192.168.1.2,192.168.1.3
+2025-07-07 13:19:37,425 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:19:37] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:20:28,221 [INFO]: Petición de escaneo recibida para target=192.168.1.0/24 modo=fast
+2025-07-07 13:20:28,222 [INFO]: Iniciando escaneo para target: 192.168.1.0/24
+2025-07-07 13:20:28,247 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6,192.168.1.7,192.168.1.8,192.168.1.9,192.168.1.10,192.168.1.11,192.168.1.12,192.168.1.13,192.168.1.14,192.168.1.15,192.168.1.16,192.168.1.17,192.168.1.18,192.168.1.19,192.168.1.20,192.168.1.21,192.168.1.22,192.168.1.23,192.168.1.24,192.168.1.25,192.168.1.26,192.168.1.27,192.168.1.28,192.168.1.29,192.168.1.30,192.168.1.31,192.168.1.32,192.168.1.33,192.168.1.34,192.168.1.35,192.168.1.36,192.168.1.37,192.168.1.38,192.168.1.39,192.168.1.40,192.168.1.41,192.168.1.42,192.168.1.43,192.168.1.44,192.168.1.45,192.168.1.46,192.168.1.47,192.168.1.48,192.168.1.49,192.168.1.50,192.168.1.51,192.168.1.52,192.168.1.53,192.168.1.54,192.168.1.55,192.168.1.56,192.168.1.57,192.168.1.58,192.168.1.59,192.168.1.60,192.168.1.61,192.168.1.62,192.168.1.63,192.168.1.64,192.168.1.65,192.168.1.66,192.168.1.67,192.168.1.68,192.168.1.69,192.168.1.70,192.168.1.71,192.168.1.72,192.168.1.73,192.168.1.74,192.168.1.75,192.168.1.76,192.168.1.77,192.168.1.78,192.168.1.79,192.168.1.80,192.168.1.81,192.168.1.82,192.168.1.83,192.168.1.84,192.168.1.85,192.168.1.86,192.168.1.87,192.168.1.88,192.168.1.89,192.168.1.90,192.168.1.91,192.168.1.92,192.168.1.93,192.168.1.94,192.168.1.95,192.168.1.96,192.168.1.97,192.168.1.98,192.168.1.99,192.168.1.100,192.168.1.101,192.168.1.102,192.168.1.103,192.168.1.104,192.168.1.105,192.168.1.106,192.168.1.107,192.168.1.108,192.168.1.109,192.168.1.110,192.168.1.111,192.168.1.112,192.168.1.113,192.168.1.114,192.168.1.115,192.168.1.116,192.168.1.117,192.168.1.118,192.168.1.119,192.168.1.120,192.168.1.121,192.168.1.122,192.168.1.123,192.168.1.124,192.168.1.125,192.168.1.126,192.168.1.127,192.168.1.128,192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 13:20:32,911 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:20:32] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:21:26,995 [INFO]: Petición de escaneo recibida para target=192.168.1.0/24 modo=fast
+2025-07-07 13:21:26,995 [INFO]: Iniciando escaneo para target: 192.168.1.0/24
+2025-07-07 13:21:27,020 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6,192.168.1.7,192.168.1.8,192.168.1.9,192.168.1.10,192.168.1.11,192.168.1.12,192.168.1.13,192.168.1.14,192.168.1.15,192.168.1.16,192.168.1.17,192.168.1.18,192.168.1.19,192.168.1.20,192.168.1.21,192.168.1.22,192.168.1.23,192.168.1.24,192.168.1.25,192.168.1.26,192.168.1.27,192.168.1.28,192.168.1.29,192.168.1.30,192.168.1.31,192.168.1.32,192.168.1.33,192.168.1.34,192.168.1.35,192.168.1.36,192.168.1.37,192.168.1.38,192.168.1.39,192.168.1.40,192.168.1.41,192.168.1.42,192.168.1.43,192.168.1.44,192.168.1.45,192.168.1.46,192.168.1.47,192.168.1.48,192.168.1.49,192.168.1.50,192.168.1.51,192.168.1.52,192.168.1.53,192.168.1.54,192.168.1.55,192.168.1.56,192.168.1.57,192.168.1.58,192.168.1.59,192.168.1.60,192.168.1.61,192.168.1.62,192.168.1.63,192.168.1.64,192.168.1.65,192.168.1.66,192.168.1.67,192.168.1.68,192.168.1.69,192.168.1.70,192.168.1.71,192.168.1.72,192.168.1.73,192.168.1.74,192.168.1.75,192.168.1.76,192.168.1.77,192.168.1.78,192.168.1.79,192.168.1.80,192.168.1.81,192.168.1.82,192.168.1.83,192.168.1.84,192.168.1.85,192.168.1.86,192.168.1.87,192.168.1.88,192.168.1.89,192.168.1.90,192.168.1.91,192.168.1.92,192.168.1.93,192.168.1.94,192.168.1.95,192.168.1.96,192.168.1.97,192.168.1.98,192.168.1.99,192.168.1.100,192.168.1.101,192.168.1.102,192.168.1.103,192.168.1.104,192.168.1.105,192.168.1.106,192.168.1.107,192.168.1.108,192.168.1.109,192.168.1.110,192.168.1.111,192.168.1.112,192.168.1.113,192.168.1.114,192.168.1.115,192.168.1.116,192.168.1.117,192.168.1.118,192.168.1.119,192.168.1.120,192.168.1.121,192.168.1.122,192.168.1.123,192.168.1.124,192.168.1.125,192.168.1.126,192.168.1.127,192.168.1.128,192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 13:21:31,692 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:21:31] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:22:23,848 [INFO]: Petición de escaneo recibida para target=scanme.nmap.org modo=fast
+2025-07-07 13:22:23,849 [INFO]: Iniciando escaneo para target: scanme.nmap.org
+2025-07-07 13:22:23,880 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para scanme.nmap.org
+2025-07-07 13:22:28,328 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:22:28] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:23:59,050 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 13:23:59,051 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 13:23:59,052 [INFO]:  * Restarting with stat
+2025-07-07 13:23:59,517 [WARNING]:  * Debugger is active!
+2025-07-07 13:23:59,523 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:24:04,128 [INFO]: Petición de escaneo recibida para target=scanme.nmap.org modo=fast
+2025-07-07 13:24:04,128 [INFO]: Iniciando escaneo para target: scanme.nmap.org
+2025-07-07 13:24:04,159 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para scanme.nmap.org
+2025-07-07 13:24:08,688 [INFO]: Resultado bruto de nmap: ['45.33.32.156']
+2025-07-07 13:24:08,689 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:24:08] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:24:35,580 [INFO]: Petición de escaneo recibida para target=192.168.1.1-192.168.1.3 modo=fast
+2025-07-07 13:24:35,581 [INFO]: Iniciando escaneo para target: 192.168.1.1-192.168.1.3
+2025-07-07 13:24:35,606 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.1,192.168.1.2,192.168.1.3
+2025-07-07 13:24:36,240 [INFO]: Resultado bruto de nmap: []
+2025-07-07 13:24:36,240 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:24:36] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:26:15,469 [INFO]: Petición de escaneo recibida para target=portquiz.net modo=fast
+2025-07-07 13:26:15,473 [INFO]: Iniciando escaneo para target: portquiz.net
+2025-07-07 13:26:15,501 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para portquiz.net
+2025-07-07 13:26:21,873 [INFO]: Resultado bruto de nmap: ['35.180.139.74']
+2025-07-07 13:26:21,873 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:26:21] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:27:34,610 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.140 modo=fast
+2025-07-07 13:27:34,611 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.140
+2025-07-07 13:27:34,653 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140
+2025-07-07 13:27:35,283 [INFO]: Resultado bruto de nmap: []
+2025-07-07 13:27:35,284 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:27:35] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:28:23,360 [INFO]: Petición de escaneo recibida para target=192.168.1.134 modo=fast
+2025-07-07 13:28:23,360 [INFO]: Iniciando escaneo para target: 192.168.1.134
+2025-07-07 13:28:23,384 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.134
+2025-07-07 13:28:25,459 [INFO]: Resultado bruto de nmap: ['192.168.1.134']
+2025-07-07 13:28:25,459 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:28:25] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:31:17,986 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:31:18,029 [INFO]:  * Restarting with stat
+2025-07-07 13:31:18,487 [WARNING]:  * Debugger is active!
+2025-07-07 13:31:18,493 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:31:24,588 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.140 modo=fast
+2025-07-07 13:31:24,589 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.140
+2025-07-07 13:31:24,625 [INFO]: Ejecutando nmap -T4 -Pn con puertos 1-1024 para 192.168.1.130-192.168.1.140
+2025-07-07 13:31:25,249 [INFO]: Resultado bruto de nmap: []
+2025-07-07 13:31:25,250 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:31:25] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:32:46,248 [INFO]: Petición de escaneo recibida para target=192.168.1.134 modo=fast
+2025-07-07 13:32:46,248 [INFO]: Iniciando escaneo para target: 192.168.1.134
+2025-07-07 13:32:46,269 [INFO]: Ejecutando nmap -T4 -Pn con puertos 1-1024 para 192.168.1.134
+2025-07-07 13:32:48,330 [INFO]: Resultado bruto de nmap: ['192.168.1.134']
+2025-07-07 13:32:48,331 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:32:48] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:32:55,226 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.140 modo=fast
+2025-07-07 13:32:55,226 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.140
+2025-07-07 13:32:55,248 [INFO]: Ejecutando nmap -T4 -Pn con puertos 1-1024 para 192.168.1.130-192.168.1.140
+2025-07-07 13:32:55,875 [INFO]: Resultado bruto de nmap: []
+2025-07-07 13:32:55,876 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:32:55] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:33:55,548 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:33:55,592 [INFO]:  * Restarting with stat
+2025-07-07 13:33:56,129 [WARNING]:  * Debugger is active!
+2025-07-07 13:33:56,134 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:34:01,078 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.140 modo=fast
+2025-07-07 13:34:01,078 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.140
+2025-07-07 13:34:01,078 [ERROR]: Error al escanear: '192.168.1.130-192.168.1.140': name 'real_scan' is not defined
+2025-07-07 13:34:01,079 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:34:01] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:34:59,292 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:34:59,330 [INFO]:  * Restarting with stat
+2025-07-07 13:34:59,781 [WARNING]:  * Debugger is active!
+2025-07-07 13:34:59,786 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:35:03,425 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.140 modo=fast
+2025-07-07 13:35:03,425 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.140
+2025-07-07 13:35:03,450 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.130-140
+2025-07-07 13:35:14,602 [INFO]: Resultado bruto de nmap: ['192.168.1.134', '192.168.1.138']
+2025-07-07 13:35:14,603 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:35:14] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:36:43,353 [INFO]: Petición de escaneo recibida para target=192.168.1.134 modo=fast
+2025-07-07 13:36:43,353 [INFO]: Iniciando escaneo para target: 192.168.1.134
+2025-07-07 13:36:43,377 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.134
+2025-07-07 13:36:45,501 [INFO]: Resultado bruto de nmap: ['192.168.1.134']
+2025-07-07 13:36:45,502 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:36:45] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:38:34,435 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:38:34,435 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:38:34,456 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:38:35,076 [INFO]: Resultado bruto de nmap: []
+2025-07-07 13:38:35,077 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:38:35] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:39:14,052 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:39:14,053 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:39:14,075 [INFO]: Ejecutando nmap -T4 con puertos 1-1024 para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:39:14,699 [INFO]: Resultado bruto de nmap: []
+2025-07-07 13:39:14,699 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:39:14] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:40:21,277 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:40:21,320 [INFO]:  * Restarting with stat
+2025-07-07 13:40:21,750 [WARNING]:  * Debugger is active!
+2025-07-07 13:40:21,755 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:40:25,473 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:40:25,473 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:40:26,081 [INFO]: Hosts detectados con ping scan: []
+2025-07-07 13:40:26,081 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:40:26] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:45:18,471 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:45:18,511 [INFO]:  * Restarting with stat
+2025-07-07 13:45:18,954 [WARNING]:  * Debugger is active!
+2025-07-07 13:45:18,959 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:45:21,062 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:45:21,105 [INFO]:  * Restarting with stat
+2025-07-07 13:45:21,553 [WARNING]:  * Debugger is active!
+2025-07-07 13:45:21,558 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:45:26,579 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:45:26,579 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:45:26,604 [INFO]: Iniciando escaneo para target: 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:45:27,219 [INFO]: Escaneo completado para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:45:27,219 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:45:27] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:46:29,865 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:46:29,919 [INFO]:  * Restarting with stat
+2025-07-07 13:46:30,376 [WARNING]:  * Debugger is active!
+2025-07-07 13:46:30,382 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:46:33,834 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:46:33,834 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:46:33,858 [INFO]: Iniciando escaneo para target: 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:46:34,474 [INFO]: Escaneo completado para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:46:34,475 [INFO]: Resultados: {}
+2025-07-07 13:46:34,475 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:46:34] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:48:56,313 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:48:56,362 [INFO]:  * Restarting with stat
+2025-07-07 13:48:56,857 [WARNING]:  * Debugger is active!
+2025-07-07 13:48:56,862 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:49:02,022 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:49:02,022 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:49:02,046 [INFO]: Iniciando escaneo para target: 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:49:02,664 [INFO]: Escaneo completado para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:49:02,664 [INFO]: Hosts detectados por nmap: []
+2025-07-07 13:49:02,664 [INFO]: Resultados: {}
+2025-07-07 13:49:02,665 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:49:02] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:49:57,081 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:49:57,119 [INFO]:  * Restarting with stat
+2025-07-07 13:49:57,645 [WARNING]:  * Debugger is active!
+2025-07-07 13:49:57,651 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:50:00,789 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:50:00,790 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:50:00,816 [INFO]: Iniciando escaneo para target: 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:50:00,816 [ERROR]: Error al escanear: name 'targets' is not defined
+2025-07-07 13:50:00,817 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:50:00] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:51:38,495 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:51:38,536 [INFO]:  * Restarting with stat
+2025-07-07 13:51:38,966 [WARNING]:  * Debugger is active!
+2025-07-07 13:51:38,972 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:51:45,153 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:51:45,153 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:51:45,176 [INFO]: Iniciando escaneo para target(s): 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:51:45,794 [INFO]: Escaneo completado para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 13:51:45,794 [INFO]: Hosts detectados por nmap: []
+2025-07-07 13:51:45,794 [INFO]: Resultados: {}
+2025-07-07 13:51:45,794 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:51:45] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:52:44,136 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:52:44,177 [INFO]:  * Restarting with stat
+2025-07-07 13:52:44,642 [WARNING]:  * Debugger is active!
+2025-07-07 13:52:44,646 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:52:53,863 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:52:53,905 [INFO]:  * Restarting with stat
+2025-07-07 13:52:54,406 [WARNING]:  * Debugger is active!
+2025-07-07 13:52:54,412 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:53:05,663 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 13:53:05,703 [INFO]:  * Restarting with stat
+2025-07-07 13:53:06,149 [WARNING]:  * Debugger is active!
+2025-07-07 13:53:06,154 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 13:53:08,313 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:53:08,314 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:53:08,338 [INFO]: Iniciando escaneo para target(s): 192.168.1.0/29
+2025-07-07 13:53:15,714 [INFO]: Escaneo completado para 192.168.1.0/29
+2025-07-07 13:53:15,714 [INFO]: Hosts detectados por nmap: ['192.168.1.1']
+2025-07-07 13:53:15,714 [INFO]: Host: 192.168.1.1 - Estado: up
+2025-07-07 13:53:15,714 [INFO]: Resultados: {'192.168.1.1': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}]}
+2025-07-07 13:53:15,715 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:53:15] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:56:38,691 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 13:56:38,691 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:56:38,715 [INFO]: Iniciando escaneo para target(s): 192.168.1.0/29
+2025-07-07 13:56:46,067 [INFO]: Escaneo completado para 192.168.1.0/29
+2025-07-07 13:56:46,067 [INFO]: Hosts detectados por nmap: ['192.168.1.1']
+2025-07-07 13:56:46,067 [INFO]: Host: 192.168.1.1 - Estado: up
+2025-07-07 13:56:46,067 [INFO]: Resultados: {'192.168.1.1': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}]}
+2025-07-07 13:56:46,068 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:56:46] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:58:11,609 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=full
+2025-07-07 13:58:11,609 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:58:11,639 [INFO]: Iniciando escaneo para target(s): 192.168.1.0/29
+2025-07-07 13:58:18,971 [INFO]: Escaneo completado para 192.168.1.0/29
+2025-07-07 13:58:18,972 [INFO]: Hosts detectados por nmap: ['192.168.1.1']
+2025-07-07 13:58:18,972 [INFO]: Host: 192.168.1.1 - Estado: up
+2025-07-07 13:58:18,972 [INFO]: Resultados: {'192.168.1.1': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}]}
+2025-07-07 13:58:18,972 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:58:18] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:58:43,010 [INFO]: Petición de escaneo recibida para target=300.300.300.300 modo=fast
+2025-07-07 13:58:43,011 [INFO]: Iniciando escaneo para target: 300.300.300.300
+2025-07-07 13:58:43,032 [INFO]: Iniciando escaneo para target(s): 300.300.300.300
+2025-07-07 13:58:43,651 [INFO]: Escaneo completado para 300.300.300.300
+2025-07-07 13:58:43,651 [INFO]: Hosts detectados por nmap: []
+2025-07-07 13:58:43,652 [INFO]: Resultados: {}
+2025-07-07 13:58:43,652 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:58:43] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 13:58:56,155 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:58:56] "[31m[1mPOST /api/scan HTTP/1.1[0m" 400 -
+2025-07-07 13:59:15,456 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=full
+2025-07-07 13:59:15,456 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 13:59:15,481 [INFO]: Iniciando escaneo para target(s): 192.168.1.0/29
+2025-07-07 13:59:22,863 [INFO]: Escaneo completado para 192.168.1.0/29
+2025-07-07 13:59:22,864 [INFO]: Hosts detectados por nmap: ['192.168.1.1']
+2025-07-07 13:59:22,864 [INFO]: Host: 192.168.1.1 - Estado: up
+2025-07-07 13:59:22,864 [INFO]: Resultados: {'192.168.1.1': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}]}
+2025-07-07 13:59:22,864 [INFO]: 127.0.0.1 - - [07/Jul/2025 13:59:22] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:00:00,153 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.150 modo=full
+2025-07-07 14:00:00,153 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.150
+2025-07-07 14:00:00,176 [INFO]: Iniciando escaneo para target(s): 192.168.1.130-192.168.1.150
+2025-07-07 14:00:00,795 [INFO]: Escaneo completado para 192.168.1.130-192.168.1.150
+2025-07-07 14:00:00,795 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:00:00,795 [INFO]: Resultados: {}
+2025-07-07 14:00:00,795 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:00:00] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:01:04,253 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=full
+2025-07-07 14:01:04,253 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:01:04,275 [INFO]: Iniciando escaneo para target(s): 192.168.1.128/25
+2025-07-07 14:01:27,891 [INFO]: Escaneo completado para 192.168.1.128/25
+2025-07-07 14:01:27,892 [INFO]: Hosts detectados por nmap: ['192.168.1.129', '192.168.1.134', '192.168.1.138', '192.168.1.140', '192.168.1.143', '192.168.1.145']
+2025-07-07 14:01:27,892 [INFO]: Host: 192.168.1.129 - Estado: up
+2025-07-07 14:01:27,892 [INFO]: Host: 192.168.1.134 - Estado: up
+2025-07-07 14:01:27,892 [INFO]: Host: 192.168.1.138 - Estado: up
+2025-07-07 14:01:27,892 [INFO]: Host: 192.168.1.140 - Estado: up
+2025-07-07 14:01:27,893 [INFO]: Host: 192.168.1.143 - Estado: up
+2025-07-07 14:01:27,893 [INFO]: Host: 192.168.1.145 - Estado: up
+2025-07-07 14:01:27,893 [INFO]: Resultados: {'192.168.1.129': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}], '192.168.1.134': [{'135': 'msrpc'}, {'139': 'netbios-ssn'}, {'445': 'microsoft-ds'}, {'902': 'iss-realsecure'}, {'912': 'apex-mesh'}, {'2179': 'vmrdp'}, {'3306': 'mysql'}, {'5000': 'upnp'}, {'8089': ''}], '192.168.1.138': [], '192.168.1.140': [], '192.168.1.143': [{'21': 'ftp'}, {'23': 'telnet'}, {'80': 'http'}, {'515': 'printer'}, {'631': 'ipp'}, {'9100': 'jetdirect'}], '192.168.1.145': [{'22': 'ssh'}, {'80': 'http'}, {'81': 'hosts2-ns'}]}
+2025-07-07 14:01:27,893 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:01:27] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:02:38,817 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 14:02:38,817 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 14:02:38,840 [INFO]: Iniciando escaneo para target(s): 192.168.1.0/29
+2025-07-07 14:02:46,201 [INFO]: Escaneo completado para 192.168.1.0/29
+2025-07-07 14:02:46,201 [INFO]: Hosts detectados por nmap: ['192.168.1.1']
+2025-07-07 14:02:46,202 [INFO]: Host: 192.168.1.1 - Estado: up
+2025-07-07 14:02:46,202 [INFO]: Resultados: {'192.168.1.1': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}]}
+2025-07-07 14:02:46,202 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:02:46] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:03:46,723 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=fast
+2025-07-07 14:03:46,723 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:03:46,745 [INFO]: Iniciando escaneo para target(s): 192.168.1.128/25
+2025-07-07 14:04:11,897 [INFO]: Escaneo completado para 192.168.1.128/25
+2025-07-07 14:04:11,897 [INFO]: Hosts detectados por nmap: ['192.168.1.129', '192.168.1.134', '192.168.1.140', '192.168.1.143', '192.168.1.145']
+2025-07-07 14:04:11,898 [INFO]: Host: 192.168.1.129 - Estado: up
+2025-07-07 14:04:11,898 [INFO]: Host: 192.168.1.134 - Estado: up
+2025-07-07 14:04:11,898 [INFO]: Host: 192.168.1.140 - Estado: up
+2025-07-07 14:04:11,898 [INFO]: Host: 192.168.1.143 - Estado: up
+2025-07-07 14:04:11,898 [INFO]: Host: 192.168.1.145 - Estado: up
+2025-07-07 14:04:11,899 [INFO]: Resultados: {'192.168.1.129': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}], '192.168.1.134': [{'135': 'msrpc'}, {'139': 'netbios-ssn'}, {'445': 'microsoft-ds'}, {'902': 'iss-realsecure'}, {'912': 'apex-mesh'}], '192.168.1.140': [], '192.168.1.143': [{'21': 'ftp'}, {'23': 'telnet'}, {'80': 'http'}, {'515': 'printer'}, {'631': 'ipp'}], '192.168.1.145': [{'22': 'ssh'}, {'80': 'http'}, {'81': 'hosts2-ns'}]}
+2025-07-07 14:04:11,899 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:04:11] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:07:36,128 [INFO]: Petición de escaneo recibida para target=192.168.1.10-192.168.1.15 modo=fast
+2025-07-07 14:07:36,128 [INFO]: Iniciando escaneo para target: 192.168.1.10-192.168.1.15
+2025-07-07 14:07:36,150 [INFO]: Iniciando escaneo para target(s): 192.168.1.10-192.168.1.15
+2025-07-07 14:07:36,772 [INFO]: Escaneo completado para 192.168.1.10-192.168.1.15
+2025-07-07 14:07:36,772 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:07:36,773 [INFO]: Resultados: {}
+2025-07-07 14:07:36,773 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:07:36] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:07:53,901 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.135 modo=fast
+2025-07-07 14:07:53,901 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.135
+2025-07-07 14:07:53,922 [INFO]: Iniciando escaneo para target(s): 192.168.1.130-192.168.1.135
+2025-07-07 14:07:54,554 [INFO]: Escaneo completado para 192.168.1.130-192.168.1.135
+2025-07-07 14:07:54,554 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:07:54,554 [INFO]: Resultados: {}
+2025-07-07 14:07:54,555 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:07:54] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:07:59,790 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.136 modo=fast
+2025-07-07 14:07:59,790 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.136
+2025-07-07 14:07:59,814 [INFO]: Iniciando escaneo para target(s): 192.168.1.130-192.168.1.136
+2025-07-07 14:08:00,434 [INFO]: Escaneo completado para 192.168.1.130-192.168.1.136
+2025-07-07 14:08:00,434 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:08:00,434 [INFO]: Resultados: {}
+2025-07-07 14:08:00,435 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:08:00] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:09:56,841 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:09:56,895 [INFO]:  * Restarting with stat
+2025-07-07 14:09:57,381 [WARNING]:  * Debugger is active!
+2025-07-07 14:09:57,386 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:10:02,489 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.136 modo=fast
+2025-07-07 14:10:02,490 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.136
+2025-07-07 14:10:02,513 [INFO]: Iniciando escaneo para target(s): 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136
+2025-07-07 14:10:03,130 [INFO]: Escaneo completado para 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136
+2025-07-07 14:10:03,130 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:10:03,130 [INFO]: Resultados: {}
+2025-07-07 14:10:03,130 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:10:03] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:10:55,344 [INFO]: Petición de escaneo recibida para target=192.168.1.134 modo=fast
+2025-07-07 14:10:55,344 [INFO]: Iniciando escaneo para target: 192.168.1.134
+2025-07-07 14:10:55,370 [INFO]: Iniciando escaneo para target(s): 192.168.1.134
+2025-07-07 14:10:57,416 [INFO]: Escaneo completado para 192.168.1.134
+2025-07-07 14:10:57,416 [INFO]: Hosts detectados por nmap: ['192.168.1.134']
+2025-07-07 14:10:57,416 [INFO]: Host: 192.168.1.134 - Estado: up
+2025-07-07 14:10:57,416 [INFO]: Resultados: {'192.168.1.134': [{'135': 'msrpc'}, {'139': 'netbios-ssn'}, {'445': 'microsoft-ds'}, {'902': 'iss-realsecure'}, {'912': 'apex-mesh'}]}
+2025-07-07 14:10:57,417 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:10:57] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:13:35,399 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.136 modo=fast
+2025-07-07 14:13:35,400 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.136
+2025-07-07 14:13:35,441 [INFO]: Iniciando escaneo para target(s): 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136
+2025-07-07 14:13:36,054 [INFO]: Escaneo completado para 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136
+2025-07-07 14:13:36,054 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:13:36,054 [INFO]: Resultados: {}
+2025-07-07 14:13:36,055 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:13:36] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:13:42,100 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.136 modo=fast
+2025-07-07 14:13:42,100 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.136
+2025-07-07 14:13:42,124 [INFO]: Iniciando escaneo para target(s): 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136
+2025-07-07 14:13:42,743 [INFO]: Escaneo completado para 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136
+2025-07-07 14:13:42,744 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:13:42,744 [INFO]: Resultados: {}
+2025-07-07 14:13:42,744 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:13:42] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:15:54,325 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:15:54,398 [INFO]:  * Restarting with stat
+2025-07-07 14:15:54,896 [WARNING]:  * Debugger is active!
+2025-07-07 14:15:54,901 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:15:58,657 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.136 modo=fast
+2025-07-07 14:15:58,658 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.136
+2025-07-07 14:15:58,704 [INFO]: Iniciando escaneo para target(s): 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136
+2025-07-07 14:15:59,294 [INFO]: Hosts vivos detectados: []
+2025-07-07 14:15:59,294 [INFO]: Escaneo completado para 192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136
+2025-07-07 14:15:59,294 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:15:59,295 [INFO]: Resultados: {}
+2025-07-07 14:15:59,295 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:15:59] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:17:17,963 [INFO]: Petición de escaneo recibida para target=192.168.1.0/29 modo=fast
+2025-07-07 14:17:17,963 [INFO]: Iniciando escaneo para target: 192.168.1.0/29
+2025-07-07 14:17:17,989 [INFO]: Iniciando escaneo para target(s): 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 14:17:18,568 [INFO]: Hosts vivos detectados: []
+2025-07-07 14:17:18,568 [INFO]: Escaneo completado para 192.168.1.1,192.168.1.2,192.168.1.3,192.168.1.4,192.168.1.5,192.168.1.6
+2025-07-07 14:17:18,568 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:17:18,569 [INFO]: Resultados: {}
+2025-07-07 14:17:18,569 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:17:18] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:17:34,559 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=full
+2025-07-07 14:17:34,559 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:17:34,585 [INFO]: Iniciando escaneo para target(s): 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:17:39,214 [INFO]: Hosts vivos detectados: []
+2025-07-07 14:17:39,215 [INFO]: Escaneo completado para 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:17:39,215 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:17:39,215 [INFO]: Resultados: {}
+2025-07-07 14:17:39,216 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:17:39] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:17:56,480 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:17:56,527 [INFO]:  * Restarting with stat
+2025-07-07 14:17:56,991 [WARNING]:  * Debugger is active!
+2025-07-07 14:17:56,996 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:18:01,764 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=full
+2025-07-07 14:18:01,764 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:18:01,788 [INFO]: Iniciando escaneo para target: 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:18:06,458 [INFO]: Escaneo completado para 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:18:06,460 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:18:06] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:18:16,475 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:18:16,515 [INFO]:  * Restarting with stat
+2025-07-07 14:18:16,970 [WARNING]:  * Debugger is active!
+2025-07-07 14:18:16,975 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:18:18,909 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=full
+2025-07-07 14:18:18,910 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:18:18,936 [INFO]: Iniciando escaneo para target: 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:18:23,592 [INFO]: Escaneo completado para 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:18:23,593 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:18:23] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:18:32,294 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:18:32,337 [INFO]:  * Restarting with stat
+2025-07-07 14:18:32,788 [WARNING]:  * Debugger is active!
+2025-07-07 14:18:32,793 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:18:36,080 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=full
+2025-07-07 14:18:36,080 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:18:40,718 [INFO]: Hosts detectados con ping scan: []
+2025-07-07 14:18:40,719 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:18:40] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:18:59,323 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:18:59,360 [INFO]:  * Restarting with stat
+2025-07-07 14:18:59,783 [WARNING]:  * Debugger is active!
+2025-07-07 14:18:59,788 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:19:00,954 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=full
+2025-07-07 14:19:00,954 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:19:00,981 [INFO]: Ejecutando nmap -T2 con puertos 1-1024 para 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:19:05,637 [INFO]: Resultado bruto de nmap: []
+2025-07-07 14:19:05,638 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:19:05] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:19:21,241 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:19:21,288 [INFO]:  * Restarting with stat
+2025-07-07 14:19:41,771 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 14:19:41,772 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 14:19:41,773 [INFO]:  * Restarting with stat
+2025-07-07 14:19:42,195 [WARNING]:  * Debugger is active!
+2025-07-07 14:19:42,200 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:19:42,225 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=full
+2025-07-07 14:19:42,225 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:19:42,250 [INFO]: Iniciando escaneo para target: 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:19:42,250 [ERROR]: Error al escanear: name 'targets' is not defined
+2025-07-07 14:19:42,250 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:19:42] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:20:38,375 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:20:38,414 [INFO]:  * Restarting with stat
+2025-07-07 14:20:38,843 [WARNING]:  * Debugger is active!
+2025-07-07 14:20:38,848 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:20:41,359 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=full
+2025-07-07 14:20:41,359 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:20:41,385 [INFO]: Iniciando escaneo para target(s): 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:20:46,026 [INFO]: Escaneo completado para 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:20:46,026 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:20:46,026 [INFO]: Resultados: {}
+2025-07-07 14:20:46,027 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:20:46] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:21:03,907 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=fast
+2025-07-07 14:21:03,907 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:21:03,930 [INFO]: Iniciando escaneo para target(s): 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:21:08,581 [INFO]: Escaneo completado para 192.168.1.129,192.168.1.130,192.168.1.131,192.168.1.132,192.168.1.133,192.168.1.134,192.168.1.135,192.168.1.136,192.168.1.137,192.168.1.138,192.168.1.139,192.168.1.140,192.168.1.141,192.168.1.142,192.168.1.143,192.168.1.144,192.168.1.145,192.168.1.146,192.168.1.147,192.168.1.148,192.168.1.149,192.168.1.150,192.168.1.151,192.168.1.152,192.168.1.153,192.168.1.154,192.168.1.155,192.168.1.156,192.168.1.157,192.168.1.158,192.168.1.159,192.168.1.160,192.168.1.161,192.168.1.162,192.168.1.163,192.168.1.164,192.168.1.165,192.168.1.166,192.168.1.167,192.168.1.168,192.168.1.169,192.168.1.170,192.168.1.171,192.168.1.172,192.168.1.173,192.168.1.174,192.168.1.175,192.168.1.176,192.168.1.177,192.168.1.178,192.168.1.179,192.168.1.180,192.168.1.181,192.168.1.182,192.168.1.183,192.168.1.184,192.168.1.185,192.168.1.186,192.168.1.187,192.168.1.188,192.168.1.189,192.168.1.190,192.168.1.191,192.168.1.192,192.168.1.193,192.168.1.194,192.168.1.195,192.168.1.196,192.168.1.197,192.168.1.198,192.168.1.199,192.168.1.200,192.168.1.201,192.168.1.202,192.168.1.203,192.168.1.204,192.168.1.205,192.168.1.206,192.168.1.207,192.168.1.208,192.168.1.209,192.168.1.210,192.168.1.211,192.168.1.212,192.168.1.213,192.168.1.214,192.168.1.215,192.168.1.216,192.168.1.217,192.168.1.218,192.168.1.219,192.168.1.220,192.168.1.221,192.168.1.222,192.168.1.223,192.168.1.224,192.168.1.225,192.168.1.226,192.168.1.227,192.168.1.228,192.168.1.229,192.168.1.230,192.168.1.231,192.168.1.232,192.168.1.233,192.168.1.234,192.168.1.235,192.168.1.236,192.168.1.237,192.168.1.238,192.168.1.239,192.168.1.240,192.168.1.241,192.168.1.242,192.168.1.243,192.168.1.244,192.168.1.245,192.168.1.246,192.168.1.247,192.168.1.248,192.168.1.249,192.168.1.250,192.168.1.251,192.168.1.252,192.168.1.253,192.168.1.254
+2025-07-07 14:21:08,581 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:21:08,581 [INFO]: Resultados: {}
+2025-07-07 14:21:08,582 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:21:08] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:22:05,765 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:22:05,805 [INFO]:  * Restarting with stat
+2025-07-07 14:22:06,240 [WARNING]:  * Debugger is active!
+2025-07-07 14:22:06,245 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:22:14,443 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:22:14,479 [INFO]:  * Restarting with stat
+2025-07-07 14:22:14,995 [WARNING]:  * Debugger is active!
+2025-07-07 14:22:15,000 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:22:25,232 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 14:22:25,272 [INFO]:  * Restarting with stat
+2025-07-07 14:22:25,716 [WARNING]:  * Debugger is active!
+2025-07-07 14:22:25,721 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 14:22:34,626 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=fast
+2025-07-07 14:22:34,627 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-07 14:22:34,669 [INFO]: Iniciando escaneo para target(s): 192.168.1.128/25
+2025-07-07 14:23:02,898 [INFO]: Escaneo completado para 192.168.1.128/25
+2025-07-07 14:23:02,899 [INFO]: Hosts detectados por nmap: ['192.168.1.129', '192.168.1.134', '192.168.1.138', '192.168.1.140', '192.168.1.143', '192.168.1.145']
+2025-07-07 14:23:02,899 [INFO]: Host: 192.168.1.129 - Estado: up
+2025-07-07 14:23:02,899 [INFO]: Host: 192.168.1.134 - Estado: up
+2025-07-07 14:23:02,899 [INFO]: Host: 192.168.1.138 - Estado: up
+2025-07-07 14:23:02,900 [INFO]: Host: 192.168.1.140 - Estado: up
+2025-07-07 14:23:02,900 [INFO]: Host: 192.168.1.143 - Estado: up
+2025-07-07 14:23:02,900 [INFO]: Host: 192.168.1.145 - Estado: up
+2025-07-07 14:23:02,900 [INFO]: Resultados: {'192.168.1.129': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}], '192.168.1.134': [{'135': 'msrpc'}, {'139': 'netbios-ssn'}, {'445': 'microsoft-ds'}, {'902': 'iss-realsecure'}, {'912': 'apex-mesh'}], '192.168.1.138': [], '192.168.1.140': [], '192.168.1.143': [{'21': 'ftp'}, {'23': 'telnet'}, {'80': 'http'}, {'515': 'printer'}, {'631': 'ipp'}], '192.168.1.145': [{'22': 'ssh'}, {'80': 'http'}, {'81': 'hosts2-ns'}]}
+2025-07-07 14:23:02,901 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:23:02] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:28:08,338 [INFO]: Petición de escaneo recibida para target=192.168.1.10-192.168.1.20 modo=full
+2025-07-07 14:28:08,338 [INFO]: Iniciando escaneo para target: 192.168.1.10-192.168.1.20
+2025-07-07 14:28:08,364 [INFO]: Iniciando escaneo para target(s): 192.168.1.10-192.168.1.20
+2025-07-07 14:28:08,999 [INFO]: Escaneo completado para 192.168.1.10-192.168.1.20
+2025-07-07 14:28:08,999 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:28:08,999 [INFO]: Resultados: {}
+2025-07-07 14:28:09,000 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:28:08] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 14:28:30,076 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.136 modo=full
+2025-07-07 14:28:30,077 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.136
+2025-07-07 14:28:30,102 [INFO]: Iniciando escaneo para target(s): 192.168.1.130-192.168.1.136
+2025-07-07 14:28:30,726 [INFO]: Escaneo completado para 192.168.1.130-192.168.1.136
+2025-07-07 14:28:30,726 [INFO]: Hosts detectados por nmap: []
+2025-07-07 14:28:30,727 [INFO]: Resultados: {}
+2025-07-07 14:28:30,727 [INFO]: 127.0.0.1 - - [07/Jul/2025 14:28:30] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 15:21:04,022 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 15:21:04,022 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 15:21:04,024 [INFO]:  * Restarting with stat
+2025-07-07 15:21:04,465 [WARNING]:  * Debugger is active!
+2025-07-07 15:21:04,471 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 15:25:27,750 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 15:25:27,807 [INFO]:  * Restarting with stat
+2025-07-07 15:25:36,367 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 15:25:36,367 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 15:25:36,368 [INFO]:  * Restarting with stat
+2025-07-07 15:25:36,807 [WARNING]:  * Debugger is active!
+2025-07-07 15:25:36,812 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 15:25:43,405 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.1.136 modo=fast
+2025-07-07 15:25:43,405 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.1.136
+2025-07-07 15:25:43,432 [INFO]: Iniciando escaneo para target(s): 192.168.1.130-192.168.1.136
+2025-07-07 15:25:44,065 [INFO]: Escaneo completado para 192.168.1.130-192.168.1.136
+2025-07-07 15:25:44,065 [INFO]: Hosts detectados por nmap: []
+2025-07-07 15:25:44,065 [INFO]: Resultados: {}
+2025-07-07 15:25:44,065 [INFO]: 127.0.0.1 - - [07/Jul/2025 15:25:44] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 15:28:55,956 [INFO]: Petición de escaneo recibida para target=192.168.1.130-136 modo=fast
+2025-07-07 15:28:55,956 [INFO]: Iniciando escaneo para target: 192.168.1.130-136
+2025-07-07 15:28:55,981 [INFO]: Iniciando escaneo para target(s): 192.168.1.130-136
+2025-07-07 15:29:04,063 [INFO]: Escaneo completado para 192.168.1.130-136
+2025-07-07 15:29:04,063 [INFO]: Hosts detectados por nmap: ['192.168.1.134']
+2025-07-07 15:29:04,063 [INFO]: Host: 192.168.1.134 - Estado: up
+2025-07-07 15:29:04,063 [INFO]: Resultados: {'192.168.1.134': [{'135': 'msrpc'}, {'139': 'netbios-ssn'}, {'445': 'microsoft-ds'}, {'902': 'iss-realsecure'}, {'912': 'apex-mesh'}]}
+2025-07-07 15:29:04,064 [INFO]: 127.0.0.1 - - [07/Jul/2025 15:29:04] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 15:30:56,726 [INFO]: Petición de escaneo recibida para target=192.168.1.130-192.168.3.136 modo=fast
+2025-07-07 15:30:56,727 [INFO]: Iniciando escaneo para target: 192.168.1.130-192.168.3.136
+2025-07-07 15:30:56,750 [INFO]: Iniciando escaneo para target(s): 192.168.1.130-192.168.3.136
+2025-07-07 15:30:57,408 [INFO]: Escaneo completado para 192.168.1.130-192.168.3.136
+2025-07-07 15:30:57,408 [INFO]: Hosts detectados por nmap: []
+2025-07-07 15:30:57,408 [INFO]: Resultados: {}
+2025-07-07 15:30:57,409 [INFO]: 127.0.0.1 - - [07/Jul/2025 15:30:57] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 15:31:15,955 [INFO]: Petición de escaneo recibida para target=192.168.1.1-136 modo=fast
+2025-07-07 15:31:15,956 [INFO]: Iniciando escaneo para target: 192.168.1.1-136
+2025-07-07 15:31:15,986 [INFO]: Iniciando escaneo para target(s): 192.168.1.1-136
+2025-07-07 15:31:25,326 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 15:31:25,326 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 15:31:25,328 [INFO]:  * Restarting with stat
+2025-07-07 15:31:25,779 [WARNING]:  * Debugger is active!
+2025-07-07 15:31:25,784 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 15:31:43,268 [INFO]: Petición de escaneo recibida para target=192.168.1.1-136 modo=fast
+2025-07-07 15:31:43,268 [INFO]: Iniciando escaneo para target: 192.168.1.1-136
+2025-07-07 15:31:43,297 [INFO]: Iniciando escaneo para target(s): 192.168.1.1-136
+2025-07-07 15:32:06,418 [INFO]: Escaneo completado para 192.168.1.1-136
+2025-07-07 15:32:06,418 [INFO]: Hosts detectados por nmap: ['192.168.1.1', '192.168.1.129', '192.168.1.134']
+2025-07-07 15:32:06,418 [INFO]: Host: 192.168.1.1 - Estado: up
+2025-07-07 15:32:06,419 [INFO]: Host: 192.168.1.129 - Estado: up
+2025-07-07 15:32:06,419 [INFO]: Host: 192.168.1.134 - Estado: up
+2025-07-07 15:32:06,419 [INFO]: Resultados: {'192.168.1.1': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}], '192.168.1.129': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}], '192.168.1.134': [{'135': 'msrpc'}, {'139': 'netbios-ssn'}, {'445': 'microsoft-ds'}, {'902': 'iss-realsecure'}, {'912': 'apex-mesh'}]}
+2025-07-07 15:32:06,420 [INFO]: 127.0.0.1 - - [07/Jul/2025 15:32:06] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 15:33:00,155 [INFO]: Petición de escaneo recibida para target=192.168.1.1-150 modo=fast
+2025-07-07 15:33:00,155 [INFO]: Iniciando escaneo para target: 192.168.1.1-150
+2025-07-07 15:33:00,178 [INFO]: Iniciando escaneo para target(s): 192.168.1.1-150
+2025-07-07 15:33:30,048 [INFO]: Escaneo completado para 192.168.1.1-150
+2025-07-07 15:33:30,048 [INFO]: Hosts detectados por nmap: ['192.168.1.1', '192.168.1.129', '192.168.1.130', '192.168.1.134', '192.168.1.140', '192.168.1.143', '192.168.1.145']
+2025-07-07 15:33:30,048 [INFO]: Host: 192.168.1.1 - Estado: up
+2025-07-07 15:33:30,049 [INFO]: Host: 192.168.1.129 - Estado: up
+2025-07-07 15:33:30,049 [INFO]: Host: 192.168.1.130 - Estado: up
+2025-07-07 15:33:30,049 [INFO]: Host: 192.168.1.134 - Estado: up
+2025-07-07 15:33:30,049 [INFO]: Host: 192.168.1.140 - Estado: up
+2025-07-07 15:33:30,049 [INFO]: Host: 192.168.1.143 - Estado: up
+2025-07-07 15:33:30,049 [INFO]: Host: 192.168.1.145 - Estado: up
+2025-07-07 15:33:30,049 [INFO]: Resultados: {'192.168.1.1': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}], '192.168.1.129': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}], '192.168.1.130': [], '192.168.1.134': [{'135': 'msrpc'}, {'139': 'netbios-ssn'}, {'445': 'microsoft-ds'}, {'902': 'iss-realsecure'}, {'912': 'apex-mesh'}], '192.168.1.140': [], '192.168.1.143': [{'21': 'ftp'}, {'23': 'telnet'}, {'80': 'http'}, {'515': 'printer'}, {'631': 'ipp'}], '192.168.1.145': [{'22': 'ssh'}, {'80': 'http'}, {'81': 'hosts2-ns'}]}
+2025-07-07 15:33:30,050 [INFO]: 127.0.0.1 - - [07/Jul/2025 15:33:30] "POST /api/scan HTTP/1.1" 200 -
+2025-07-07 15:47:09,063 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\nmap_service.py', reloading
+2025-07-07 15:47:09,116 [INFO]:  * Restarting with stat
+2025-07-07 15:47:09,547 [WARNING]:  * Debugger is active!
+2025-07-07 15:47:09,552 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 15:47:38,156 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 15:47:38,202 [INFO]:  * Restarting with stat
+2025-07-07 15:47:38,632 [WARNING]:  * Debugger is active!
+2025-07-07 15:47:38,637 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 15:47:50,928 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 15:47:50,969 [INFO]:  * Restarting with stat
+2025-07-07 15:48:12,167 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 15:48:12,167 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 15:48:12,168 [INFO]:  * Restarting with stat
+2025-07-07 15:48:12,593 [WARNING]:  * Debugger is active!
+2025-07-07 15:48:12,598 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 15:50:58,978 [INFO]: Escaneando servicio 192.168.1.100:22/tcp
+2025-07-07 15:51:06,180 [INFO]: 127.0.0.1 - - [07/Jul/2025 15:51:06] "[31m[1mPOST /api/service-scan HTTP/1.1[0m" 400 -
+2025-07-07 15:51:16,044 [INFO]: Escaneando servicio 192.168.1.145:22/tcp
+2025-07-07 15:51:17,105 [INFO]: 127.0.0.1 - - [07/Jul/2025 15:51:17] "POST /api/service-scan HTTP/1.1" 200 -
+2025-07-07 15:51:30,658 [INFO]: Escaneando servicio 192.168.1.145:80/tcp
+2025-07-07 15:51:37,819 [INFO]: 127.0.0.1 - - [07/Jul/2025 15:51:37] "POST /api/service-scan HTTP/1.1" 200 -
+2025-07-07 15:57:16,385 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\os_detecto.py', reloading
+2025-07-07 15:57:16,434 [INFO]:  * Restarting with stat
+2025-07-07 15:57:16,873 [WARNING]:  * Debugger is active!
+2025-07-07 15:57:16,878 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 15:57:26,151 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-07 15:57:26,197 [INFO]:  * Restarting with stat
+2025-07-07 16:07:55,774 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 16:07:55,774 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 16:07:55,776 [INFO]:  * Restarting with stat
+2025-07-07 16:07:56,193 [WARNING]:  * Debugger is active!
+2025-07-07 16:07:56,198 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:09:46,746 [INFO]: Petición de detección SO para host=192.168.1.134
+2025-07-07 16:09:46,791 [INFO]: Iniciando detección de SO para host: 192.168.1.134
+2025-07-07 16:09:57,775 [INFO]: SO detectado para 192.168.1.134: Microsoft Windows 10 1607 - 11 23H2 (Precisión: 99%)
+2025-07-07 16:09:57,775 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:09:57] "POST /api/os-scan HTTP/1.1" 200 -
+2025-07-07 16:10:12,611 [INFO]: Petición de detección SO para host=192.168.1.145
+2025-07-07 16:10:12,636 [INFO]: Iniciando detección de SO para host: 192.168.1.145
+2025-07-07 16:10:21,809 [INFO]: SO detectado para 192.168.1.145: Linux 5.0 - 5.14 (Precisión: 98%)
+2025-07-07 16:10:21,809 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:10:21] "POST /api/os-scan HTTP/1.1" 200 -
+2025-07-07 16:12:24,410 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\services\\directory_enumeration.py', reloading
+2025-07-07 16:12:24,447 [INFO]:  * Restarting with stat
+2025-07-07 16:12:24,870 [WARNING]:  * Debugger is active!
+2025-07-07 16:12:24,875 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:12:44,294 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\directory.py', reloading
+2025-07-07 16:12:44,357 [INFO]:  * Restarting with stat
+2025-07-07 16:12:44,841 [WARNING]:  * Debugger is active!
+2025-07-07 16:12:44,846 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:13:13,396 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-07 16:13:13,438 [INFO]:  * Restarting with stat
+2025-07-07 16:14:11,446 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 16:14:11,446 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 16:14:11,447 [INFO]:  * Restarting with stat
+2025-07-07 16:14:12,202 [WARNING]:  * Debugger is active!
+2025-07-07 16:14:12,207 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:15:32,095 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:15:32] "[33mPOST /api/dir-enum HTTP/1.1[0m" 404 -
+2025-07-07 16:15:51,219 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:15:51] "[33mPOST /api/dir-enum HTTP/1.1[0m" 404 -
+2025-07-07 16:16:57,167 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\dir_enum.py', reloading
+2025-07-07 16:16:57,222 [INFO]:  * Restarting with stat
+2025-07-07 16:17:48,045 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 16:17:48,045 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 16:17:48,046 [INFO]:  * Restarting with stat
+2025-07-07 16:17:48,819 [WARNING]:  * Debugger is active!
+2025-07-07 16:17:48,824 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:17:52,956 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:17:52] "POST /api/dir-enum HTTP/1.1" 200 -
+2025-07-07 16:19:06,321 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:19:06] "POST /api/dir-enum HTTP/1.1" 200 -
+2025-07-07 16:26:48,151 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\dir_enum.py', reloading
+2025-07-07 16:26:48,200 [INFO]:  * Restarting with stat
+2025-07-07 16:29:13,218 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-07 16:29:13,218 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-07 16:29:13,220 [INFO]:  * Restarting with stat
+2025-07-07 16:29:13,982 [WARNING]:  * Debugger is active!
+2025-07-07 16:29:13,987 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:30:34,363 [INFO]: Petición de escaneo de directorios para host=http://192.168.1.145
+2025-07-07 16:30:46,093 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:30:46] "POST /api/dir-scan HTTP/1.1" 200 -
+2025-07-07 16:32:08,262 [INFO]: Petición de escaneo de directorios para host=http://192.168.1.145
+2025-07-07 16:32:17,775 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:32:17] "POST /api/dir-scan HTTP/1.1" 200 -
+2025-07-07 16:33:08,390 [INFO]: Petición de escaneo de directorios para host=http://192.168.1.145
+2025-07-07 16:33:17,947 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:33:17] "POST /api/dir-scan HTTP/1.1" 200 -
+2025-07-07 16:39:22,670 [INFO]: Petición de escaneo de directorios para host=http://192.168.1.145
+2025-07-07 16:39:32,268 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:39:32] "POST /api/dir-scan HTTP/1.1" 200 -
+2025-07-07 16:49:36,247 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-07 16:49:36,360 [INFO]:  * Restarting with stat
+2025-07-07 16:49:37,315 [WARNING]:  * Debugger is active!
+2025-07-07 16:49:37,320 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:49:47,632 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-07 16:49:47,681 [INFO]:  * Restarting with stat
+2025-07-07 16:49:48,552 [WARNING]:  * Debugger is active!
+2025-07-07 16:49:48,557 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:49:55,809 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-07 16:49:55,853 [INFO]:  * Restarting with stat
+2025-07-07 16:49:56,660 [WARNING]:  * Debugger is active!
+2025-07-07 16:49:56,666 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:51:50,246 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:51:50] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-07 16:52:45,503 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:52:45] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-07 16:53:31,465 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:53:31] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-07 16:55:01,541 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:55:01] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-07 16:56:00,606 [INFO]: 192.168.1.134 - - [07/Jul/2025 16:56:00] "[33mGET / HTTP/1.0[0m" 404 -
+2025-07-07 16:56:15,928 [INFO]: 192.168.1.134 - - [07/Jul/2025 16:56:15] "[33mGET / HTTP/1.0[0m" 404 -
+2025-07-07 16:56:15,929 [INFO]: 192.168.1.134 - - [07/Jul/2025 16:56:15] "[33mPOST /sdk HTTP/1.1[0m" 404 -
+2025-07-07 16:56:15,929 [INFO]: 192.168.1.134 - - [07/Jul/2025 16:56:15] "[33mGET /nmaplowercheck1751900175 HTTP/1.1[0m" 404 -
+2025-07-07 16:56:16,033 [INFO]: 192.168.1.134 - - [07/Jul/2025 16:56:16] "[33mGET /evox/about HTTP/1.1[0m" 404 -
+2025-07-07 16:56:16,085 [INFO]: 192.168.1.134 - - [07/Jul/2025 16:56:16] "[33mGET /HNAP1 HTTP/1.1[0m" 404 -
+2025-07-07 16:56:16,196 [INFO]: 192.168.1.134 - - [07/Jul/2025 16:56:16] "[33mGET / HTTP/1.0[0m" 404 -
+2025-07-07 16:56:16,200 [INFO]: 192.168.1.134 - - [07/Jul/2025 16:56:16] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-07 16:56:16,222 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:56:16] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-07 16:57:39,787 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-07 16:57:39,840 [INFO]:  * Restarting with stat
+2025-07-07 16:57:40,708 [WARNING]:  * Debugger is active!
+2025-07-07 16:57:40,713 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-07 16:58:34,734 [INFO]: 127.0.0.1 - - [07/Jul/2025 16:58:34] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-07 17:00:34,606 [INFO]: 127.0.0.1 - - [07/Jul/2025 17:00:34] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-07 17:15:13,572 [INFO]: 127.0.0.1 - - [07/Jul/2025 17:15:13] "[32mPOST /api//service-scan HTTP/1.1[0m" 308 -
+2025-07-07 17:15:23,501 [INFO]: 127.0.0.1 - - [07/Jul/2025 17:15:23] "[31m[1mPOST /api/service-scan HTTP/1.1[0m" 400 -
+2025-07-07 17:16:31,726 [INFO]: 127.0.0.1 - - [07/Jul/2025 17:16:31] "[31m[1mPOST /api/service-scan HTTP/1.1[0m" 400 -
+2025-07-07 17:17:40,386 [INFO]: Escaneando servicio 192.168.1.145:80/tcp
+2025-07-07 17:17:47,579 [INFO]: 127.0.0.1 - - [07/Jul/2025 17:17:47] "POST /api/service-scan HTTP/1.1" 200 -
+2025-07-07 17:18:00,993 [INFO]: Escaneando servicio 192.168.1.145:80/tcp
+2025-07-07 17:18:08,154 [INFO]: 127.0.0.1 - - [07/Jul/2025 17:18:08] "POST /api/service-scan HTTP/1.1" 200 -
+2025-07-07 17:19:21,126 [INFO]: Escaneando servicio 192.168.1.145:80/tcp
+2025-07-07 17:19:28,272 [INFO]: 127.0.0.1 - - [07/Jul/2025 17:19:28] "POST /api/service-scan HTTP/1.1" 200 -
+2025-07-07 17:19:50,518 [INFO]: Escaneando servicio 192.168.1.145:22/tcp
+2025-07-07 17:19:51,568 [INFO]: 127.0.0.1 - - [07/Jul/2025 17:19:51] "POST /api/service-scan HTTP/1.1" 200 -
+2025-07-08 15:40:22,174 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 15:40:22,175 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 15:40:22,177 [INFO]:  * Restarting with stat
+2025-07-08 15:40:22,961 [WARNING]:  * Debugger is active!
+2025-07-08 15:40:22,966 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 15:43:15,222 [INFO]: 127.0.0.1 - - [08/Jul/2025 15:43:15] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 500 -
+2025-07-08 15:46:05,010 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-08 15:46:05,064 [INFO]:  * Restarting with stat
+2025-07-08 15:46:05,920 [WARNING]:  * Debugger is active!
+2025-07-08 15:46:05,925 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 15:46:46,275 [INFO]: 127.0.0.1 - - [08/Jul/2025 15:46:46] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-08 15:51:36,999 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-08 15:51:37,049 [INFO]:  * Restarting with stat
+2025-07-08 15:53:18,883 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 15:53:18,884 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 15:53:18,885 [INFO]:  * Restarting with stat
+2025-07-08 15:53:19,657 [WARNING]:  * Debugger is active!
+2025-07-08 15:53:19,662 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 15:53:54,357 [INFO]: 127.0.0.1 - - [08/Jul/2025 15:53:54] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 500 -
+2025-07-08 15:55:55,422 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-08 15:55:55,481 [INFO]:  * Restarting with stat
+2025-07-08 15:55:56,306 [WARNING]:  * Debugger is active!
+2025-07-08 15:55:56,311 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 15:58:31,644 [INFO]: 127.0.0.1 - - [08/Jul/2025 15:58:31] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-08 16:01:39,880 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-08 16:01:39,951 [INFO]:  * Restarting with stat
+2025-07-08 16:02:02,352 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 16:02:02,352 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 16:02:02,354 [INFO]:  * Restarting with stat
+2025-07-08 16:02:03,135 [WARNING]:  * Debugger is active!
+2025-07-08 16:02:03,140 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 16:02:47,381 [INFO]: 127.0.0.1 - - [08/Jul/2025 16:02:47] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-08 16:04:10,554 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-08 16:04:10,603 [INFO]:  * Restarting with stat
+2025-07-08 16:04:17,563 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 16:04:17,564 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 16:04:17,565 [INFO]:  * Restarting with stat
+2025-07-08 16:04:18,326 [WARNING]:  * Debugger is active!
+2025-07-08 16:04:18,331 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 16:04:38,845 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-08 16:04:38,897 [INFO]:  * Restarting with stat
+2025-07-08 16:04:39,731 [WARNING]:  * Debugger is active!
+2025-07-08 16:04:39,736 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 16:05:18,816 [INFO]: 127.0.0.1 - - [08/Jul/2025 16:05:18] "POST /api/vuln-scan HTTP/1.1" 200 -
+2025-07-08 16:44:28,763 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 16:44:28,764 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 16:44:28,765 [INFO]:  * Restarting with stat
+2025-07-08 16:44:29,719 [WARNING]:  * Debugger is active!
+2025-07-08 16:44:29,725 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 16:59:53,428 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\prueba.py', reloading
+2025-07-08 16:59:53,487 [INFO]:  * Restarting with stat
+2025-07-08 16:59:54,504 [WARNING]:  * Debugger is active!
+2025-07-08 16:59:54,509 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:01:45,118 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\tasks.py', reloading
+2025-07-08 17:01:45,182 [INFO]:  * Restarting with stat
+2025-07-08 17:03:15,034 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 17:03:15,034 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 17:03:15,037 [INFO]:  * Restarting with stat
+2025-07-08 17:03:15,976 [WARNING]:  * Debugger is active!
+2025-07-08 17:03:15,981 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:13:08,505 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\prueba.py', reloading
+2025-07-08 17:13:08,561 [INFO]:  * Restarting with stat
+2025-07-08 17:13:09,666 [WARNING]:  * Debugger is active!
+2025-07-08 17:13:09,671 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:17:41,245 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\celery_worker.py', reloading
+2025-07-08 17:17:41,301 [INFO]:  * Restarting with stat
+2025-07-08 17:17:42,245 [WARNING]:  * Debugger is active!
+2025-07-08 17:17:42,250 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:18:09,187 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\tasks.py', reloading
+2025-07-08 17:18:09,238 [INFO]:  * Restarting with stat
+2025-07-08 17:18:10,220 [WARNING]:  * Debugger is active!
+2025-07-08 17:18:10,225 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:20:15,661 [INFO]: 127.0.0.1 - - [08/Jul/2025 17:20:15] "[33mGET / HTTP/1.0[0m" 404 -
+2025-07-08 17:20:31,020 [INFO]: 127.0.0.1 - - [08/Jul/2025 17:20:31] "[33mPOST /sdk HTTP/1.1[0m" 404 -
+2025-07-08 17:20:31,020 [INFO]: 127.0.0.1 - - [08/Jul/2025 17:20:31] "[33mGET / HTTP/1.0[0m" 404 -
+2025-07-08 17:20:31,021 [INFO]: 127.0.0.1 - - [08/Jul/2025 17:20:31] "[33mGET /nmaplowercheck1751988030 HTTP/1.1[0m" 404 -
+2025-07-08 17:20:31,173 [INFO]: 127.0.0.1 - - [08/Jul/2025 17:20:31] "[33mGET /HNAP1 HTTP/1.1[0m" 404 -
+2025-07-08 17:20:31,225 [INFO]: 127.0.0.1 - - [08/Jul/2025 17:20:31] "[33mGET /evox/about HTTP/1.1[0m" 404 -
+2025-07-08 17:21:01,045 [INFO]: 127.0.0.1 - - [08/Jul/2025 17:21:01] "[33mGET / HTTP/1.0[0m" 404 -
+2025-07-08 17:21:01,050 [INFO]: 127.0.0.1 - - [08/Jul/2025 17:21:01] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-08 17:32:35,822 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\vuln_scan.py', reloading
+2025-07-08 17:32:35,887 [INFO]:  * Restarting with stat
+2025-07-08 17:32:36,943 [WARNING]:  * Debugger is active!
+2025-07-08 17:32:36,949 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:38:28,783 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\database\\db.py', reloading
+2025-07-08 17:38:28,837 [INFO]:  * Restarting with stat
+2025-07-08 17:38:29,807 [WARNING]:  * Debugger is active!
+2025-07-08 17:38:29,812 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:38:43,315 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\database\\models.py', reloading
+2025-07-08 17:38:43,367 [INFO]:  * Restarting with stat
+2025-07-08 17:38:44,295 [WARNING]:  * Debugger is active!
+2025-07-08 17:38:44,300 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:39:22,593 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\scripts\\create_db.py', reloading
+2025-07-08 17:39:22,663 [INFO]:  * Restarting with stat
+2025-07-08 17:39:23,812 [WARNING]:  * Debugger is active!
+2025-07-08 17:39:23,817 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:49:20,159 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\database\\models.py', reloading
+2025-07-08 17:49:20,214 [INFO]:  * Restarting with stat
+2025-07-08 17:49:21,279 [WARNING]:  * Debugger is active!
+2025-07-08 17:49:21,284 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 17:49:47,151 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\tasks.py', reloading
+2025-07-08 17:49:47,204 [INFO]:  * Restarting with stat
+2025-07-08 18:06:00,510 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 18:06:00,510 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 18:06:00,511 [INFO]:  * Restarting with stat
+2025-07-08 18:06:01,749 [WARNING]:  * Debugger is active!
+2025-07-08 18:06:01,754 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 18:09:37,185 [INFO]: 127.0.0.1 - - [08/Jul/2025 18:09:37] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 18:13:30,040 [INFO]: 127.0.0.1 - - [08/Jul/2025 18:13:30] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 18:22:12,910 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-08 18:22:13,059 [INFO]:  * Restarting with stat
+2025-07-08 18:23:54,268 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 18:23:54,268 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 18:23:54,270 [INFO]:  * Restarting with stat
+2025-07-08 18:23:55,489 [WARNING]:  * Debugger is active!
+2025-07-08 18:23:55,494 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 18:23:59,050 [INFO]: 127.0.0.1 - - [08/Jul/2025 18:23:59] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 18:37:43,419 [INFO]: 127.0.0.1 - - [08/Jul/2025 18:37:43] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 18:42:56,041 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\tasks.py', reloading
+2025-07-08 18:42:56,159 [INFO]:  * Restarting with stat
+2025-07-08 18:42:57,467 [WARNING]:  * Debugger is active!
+2025-07-08 18:42:57,473 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 18:43:07,002 [INFO]: 127.0.0.1 - - [08/Jul/2025 18:43:07] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 18:55:04,383 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 18:55:04,384 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 18:55:04,385 [INFO]:  * Restarting with stat
+2025-07-08 18:55:05,612 [WARNING]:  * Debugger is active!
+2025-07-08 18:55:05,618 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 18:55:13,209 [INFO]: 127.0.0.1 - - [08/Jul/2025 18:55:13] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 18:58:42,447 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\database\\db.py', reloading
+2025-07-08 18:58:42,569 [INFO]:  * Restarting with stat
+2025-07-08 18:58:43,806 [WARNING]:  * Debugger is active!
+2025-07-08 18:58:43,811 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 18:58:49,896 [INFO]: 127.0.0.1 - - [08/Jul/2025 18:58:49] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 19:00:58,812 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\models\\__init__.py', reloading
+2025-07-08 19:00:58,924 [INFO]:  * Restarting with stat
+2025-07-08 19:01:00,269 [WARNING]:  * Debugger is active!
+2025-07-08 19:01:00,274 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 19:03:41,814 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\database\\db.py', reloading
+2025-07-08 19:03:41,938 [INFO]:  * Restarting with stat
+2025-07-08 19:03:43,185 [WARNING]:  * Debugger is active!
+2025-07-08 19:03:43,190 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 19:06:05,743 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\tasks.py', reloading
+2025-07-08 19:06:05,844 [INFO]:  * Restarting with stat
+2025-07-08 19:11:30,497 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-08 19:11:30,498 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-08 19:11:30,499 [INFO]:  * Restarting with stat
+2025-07-08 19:11:31,717 [WARNING]:  * Debugger is active!
+2025-07-08 19:11:31,722 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-08 19:11:37,900 [INFO]: 127.0.0.1 - - [08/Jul/2025 19:11:37] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 19:12:46,367 [INFO]: 127.0.0.1 - - [08/Jul/2025 19:12:46] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 19:20:35,413 [INFO]: 127.0.0.1 - - [08/Jul/2025 19:20:35] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-08 19:21:50,432 [INFO]: 127.0.0.1 - - [08/Jul/2025 19:21:50] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 08:50:40,828 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 08:50:40,829 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 08:50:40,830 [INFO]:  * Restarting with stat
+2025-07-09 08:50:42,008 [WARNING]:  * Debugger is active!
+2025-07-09 08:50:42,013 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 08:50:44,558 [INFO]: 127.0.0.1 - - [09/Jul/2025 08:50:44] "[33mPOST /dir-scan HTTP/1.1[0m" 404 -
+2025-07-09 08:51:10,935 [INFO]: 127.0.0.1 - - [09/Jul/2025 08:51:10] "[33mPOST /dir-scan HTTP/1.1[0m" 404 -
+2025-07-09 08:54:07,824 [INFO]: 127.0.0.1 - - [09/Jul/2025 08:54:07] "[33mPOST /dir-scan HTTP/1.1[0m" 404 -
+2025-07-09 08:56:34,423 [INFO]: Petición de escaneo de directorios para host=192.168.1.145
+2025-07-09 08:56:34,432 [WARNING]: No se pudo acceder a 192.168.1.145/All the Mods 9 - ATM9.rar: Invalid URL '192.168.1.145/All the Mods 9 - ATM9.rar': No scheme supplied. Perhaps you meant https://192.168.1.145/All the Mods 9 - ATM9.rar?
+2025-07-09 08:56:34,433 [WARNING]: No se pudo acceder a 192.168.1.145/elements: Invalid URL '192.168.1.145/elements': No scheme supplied. Perhaps you meant https://192.168.1.145/elements?
+2025-07-09 08:56:34,433 [WARNING]: No se pudo acceder a 192.168.1.145/imgs: Invalid URL '192.168.1.145/imgs': No scheme supplied. Perhaps you meant https://192.168.1.145/imgs?
+2025-07-09 08:56:34,434 [WARNING]: No se pudo acceder a 192.168.1.145/index.nginx-debian.html: Invalid URL '192.168.1.145/index.nginx-debian.html': No scheme supplied. Perhaps you meant https://192.168.1.145/index.nginx-debian.html?
+2025-07-09 08:56:34,434 [WARNING]: No se pudo acceder a 192.168.1.145/script.js: Invalid URL '192.168.1.145/script.js': No scheme supplied. Perhaps you meant https://192.168.1.145/script.js?
+2025-07-09 08:56:34,435 [WARNING]: No se pudo acceder a 192.168.1.145/videos: Invalid URL '192.168.1.145/videos': No scheme supplied. Perhaps you meant https://192.168.1.145/videos?
+2025-07-09 08:56:34,435 [WARNING]: No se pudo acceder a 192.168.1.145/Webdafne: Invalid URL '192.168.1.145/Webdafne': No scheme supplied. Perhaps you meant https://192.168.1.145/Webdafne?
+2025-07-09 08:56:34,436 [WARNING]: No se pudo acceder a 192.168.1.145/carpeta_minecraft: Invalid URL '192.168.1.145/carpeta_minecraft': No scheme supplied. Perhaps you meant https://192.168.1.145/carpeta_minecraft?
+2025-07-09 08:56:34,436 [WARNING]: No se pudo acceder a 192.168.1.145/fotos: Invalid URL '192.168.1.145/fotos': No scheme supplied. Perhaps you meant https://192.168.1.145/fotos?
+2025-07-09 08:56:34,436 [WARNING]: No se pudo acceder a 192.168.1.145/index.html: Invalid URL '192.168.1.145/index.html': No scheme supplied. Perhaps you meant https://192.168.1.145/index.html?
+2025-07-09 08:56:34,437 [WARNING]: No se pudo acceder a 192.168.1.145/meencantas.html: Invalid URL '192.168.1.145/meencantas.html': No scheme supplied. Perhaps you meant https://192.168.1.145/meencantas.html?
+2025-07-09 08:56:34,437 [WARNING]: No se pudo acceder a 192.168.1.145/styles.css: Invalid URL '192.168.1.145/styles.css': No scheme supplied. Perhaps you meant https://192.168.1.145/styles.css?
+2025-07-09 08:56:34,437 [WARNING]: No se pudo acceder a 192.168.1.145/web: Invalid URL '192.168.1.145/web': No scheme supplied. Perhaps you meant https://192.168.1.145/web?
+2025-07-09 08:56:34,437 [WARNING]: No se pudo acceder a 192.168.1.145/xd: Invalid URL '192.168.1.145/xd': No scheme supplied. Perhaps you meant https://192.168.1.145/xd?
+2025-07-09 08:56:34,438 [INFO]: 127.0.0.1 - - [09/Jul/2025 08:56:34] "POST /api/dir-scan HTTP/1.1" 200 -
+2025-07-09 08:57:33,957 [INFO]: Petición de escaneo de directorios para host=ekain.duckdns.org
+2025-07-09 08:57:33,958 [WARNING]: No se pudo acceder a ekain.duckdns.org/All the Mods 9 - ATM9.rar: Invalid URL 'ekain.duckdns.org/All the Mods 9 - ATM9.rar': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/All the Mods 9 - ATM9.rar?
+2025-07-09 08:57:33,958 [WARNING]: No se pudo acceder a ekain.duckdns.org/elements: Invalid URL 'ekain.duckdns.org/elements': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/elements?
+2025-07-09 08:57:33,958 [WARNING]: No se pudo acceder a ekain.duckdns.org/imgs: Invalid URL 'ekain.duckdns.org/imgs': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/imgs?
+2025-07-09 08:57:33,959 [WARNING]: No se pudo acceder a ekain.duckdns.org/index.nginx-debian.html: Invalid URL 'ekain.duckdns.org/index.nginx-debian.html': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/index.nginx-debian.html?
+2025-07-09 08:57:33,960 [WARNING]: No se pudo acceder a ekain.duckdns.org/script.js: Invalid URL 'ekain.duckdns.org/script.js': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/script.js?
+2025-07-09 08:57:33,960 [WARNING]: No se pudo acceder a ekain.duckdns.org/videos: Invalid URL 'ekain.duckdns.org/videos': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/videos?
+2025-07-09 08:57:33,961 [WARNING]: No se pudo acceder a ekain.duckdns.org/Webdafne: Invalid URL 'ekain.duckdns.org/Webdafne': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/Webdafne?
+2025-07-09 08:57:33,961 [WARNING]: No se pudo acceder a ekain.duckdns.org/carpeta_minecraft: Invalid URL 'ekain.duckdns.org/carpeta_minecraft': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/carpeta_minecraft?
+2025-07-09 08:57:33,962 [WARNING]: No se pudo acceder a ekain.duckdns.org/fotos: Invalid URL 'ekain.duckdns.org/fotos': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/fotos?
+2025-07-09 08:57:33,962 [WARNING]: No se pudo acceder a ekain.duckdns.org/index.html: Invalid URL 'ekain.duckdns.org/index.html': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/index.html?
+2025-07-09 08:57:33,963 [WARNING]: No se pudo acceder a ekain.duckdns.org/meencantas.html: Invalid URL 'ekain.duckdns.org/meencantas.html': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/meencantas.html?
+2025-07-09 08:57:33,963 [WARNING]: No se pudo acceder a ekain.duckdns.org/styles.css: Invalid URL 'ekain.duckdns.org/styles.css': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/styles.css?
+2025-07-09 08:57:33,963 [WARNING]: No se pudo acceder a ekain.duckdns.org/web: Invalid URL 'ekain.duckdns.org/web': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/web?
+2025-07-09 08:57:33,964 [WARNING]: No se pudo acceder a ekain.duckdns.org/xd: Invalid URL 'ekain.duckdns.org/xd': No scheme supplied. Perhaps you meant https://ekain.duckdns.org/xd?
+2025-07-09 08:57:33,964 [INFO]: 127.0.0.1 - - [09/Jul/2025 08:57:33] "POST /api/dir-scan HTTP/1.1" 200 -
+2025-07-09 08:58:08,060 [INFO]: Petición de escaneo de directorios para host=http://ekain.duckdns.org
+2025-07-09 08:58:24,985 [INFO]: 127.0.0.1 - - [09/Jul/2025 08:58:24] "POST /api/dir-scan HTTP/1.1" 200 -
+2025-07-09 09:00:29,089 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\utils\\reports.py', reloading
+2025-07-09 09:00:29,206 [INFO]:  * Restarting with stat
+2025-07-09 09:00:30,564 [WARNING]:  * Debugger is active!
+2025-07-09 09:00:30,569 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:05:14,400 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\dir_enum.py', reloading
+2025-07-09 09:05:14,501 [INFO]:  * Restarting with stat
+2025-07-09 09:05:15,814 [WARNING]:  * Debugger is active!
+2025-07-09 09:05:15,820 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:05:21,507 [INFO]: Petición de escaneo de directorios para host=http://ekain.duckdns.org
+2025-07-09 09:05:39,071 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:05:39] "POST /api/dir-scan HTTP/1.1" 200 -
+2025-07-09 09:08:14,405 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:08:14] "[33mPOST /os-scan HTTP/1.1[0m" 404 -
+2025-07-09 09:09:20,658 [INFO]: Petición de detección SO para host=192.168.1.145
+2025-07-09 09:09:20,994 [INFO]: Iniciando detección de SO para host: 192.168.1.145
+2025-07-09 09:09:31,048 [INFO]: SO detectado para 192.168.1.145: Linux 5.0 - 5.14 (Precisión: 98%)
+2025-07-09 09:09:31,048 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:09:31] "POST /api/os-scan HTTP/1.1" 200 -
+2025-07-09 09:13:42,086 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\scan.py', reloading
+2025-07-09 09:13:42,205 [INFO]:  * Restarting with stat
+2025-07-09 09:13:43,527 [WARNING]:  * Debugger is active!
+2025-07-09 09:13:43,532 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:20:35,993 [INFO]: Petición de escaneo recibida para target=192.168.1.128/25 modo=fast
+2025-07-09 09:20:35,993 [INFO]: Iniciando escaneo para target: 192.168.1.128/25
+2025-07-09 09:20:36,017 [INFO]: Iniciando escaneo para target(s): 192.168.1.128/25
+2025-07-09 09:21:02,220 [INFO]: Escaneo completado para 192.168.1.128/25
+2025-07-09 09:21:02,220 [INFO]: Hosts detectados por nmap: ['192.168.1.129', '192.168.1.134', '192.168.1.138', '192.168.1.140', '192.168.1.143', '192.168.1.145']
+2025-07-09 09:21:02,220 [INFO]: Host: 192.168.1.129 - Estado: up
+2025-07-09 09:21:02,221 [INFO]: Host: 192.168.1.134 - Estado: up
+2025-07-09 09:21:02,221 [INFO]: Host: 192.168.1.138 - Estado: up
+2025-07-09 09:21:02,221 [INFO]: Host: 192.168.1.140 - Estado: up
+2025-07-09 09:21:02,222 [INFO]: Host: 192.168.1.143 - Estado: up
+2025-07-09 09:21:02,222 [INFO]: Host: 192.168.1.145 - Estado: up
+2025-07-09 09:21:02,222 [INFO]: Resultados: {'192.168.1.129': [{'53': 'domain'}, {'80': 'http'}, {'443': 'https'}], '192.168.1.134': [{'135': 'msrpc'}, {'139': 'netbios-ssn'}, {'445': 'microsoft-ds'}, {'902': 'iss-realsecure'}, {'912': 'apex-mesh'}], '192.168.1.138': [], '192.168.1.140': [], '192.168.1.143': [{'21': 'ftp'}, {'23': 'telnet'}, {'80': 'http'}, {'515': 'printer'}, {'631': 'ipp'}], '192.168.1.145': [{'22': 'ssh'}, {'80': 'http'}, {'81': 'hosts2-ns'}]}
+2025-07-09 09:21:02,224 [INFO]: Reporte guardado en reports/scan/json\scan_192.168.1.128_25_20250709_092102.json
+2025-07-09 09:21:02,225 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:21:02] "POST /api/scan HTTP/1.1" 200 -
+2025-07-09 09:23:16,379 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:23:16] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 09:25:45,296 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:25:45] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 09:26:30,693 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:26:30] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 09:27:17,450 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\tasks.py', reloading
+2025-07-09 09:27:17,565 [INFO]:  * Restarting with stat
+2025-07-09 09:30:11,426 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 09:30:11,427 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 09:30:11,428 [INFO]:  * Restarting with stat
+2025-07-09 09:30:12,641 [WARNING]:  * Debugger is active!
+2025-07-09 09:30:12,646 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:30:16,119 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:30:16] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 09:30:41,014 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\celery_worker.py', reloading
+2025-07-09 09:30:41,169 [INFO]:  * Restarting with stat
+2025-07-09 09:32:18,736 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 09:32:18,737 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 09:32:18,740 [INFO]:  * Restarting with stat
+2025-07-09 09:32:20,077 [WARNING]:  * Debugger is active!
+2025-07-09 09:32:20,083 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:33:14,360 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\routes\\celery_worker.py', reloading
+2025-07-09 09:33:14,455 [INFO]:  * Restarting with stat
+2025-07-09 09:33:15,865 [WARNING]:  * Debugger is active!
+2025-07-09 09:33:15,870 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:33:21,826 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:33:21] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 09:33:44,169 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 09:33:44,169 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 09:33:44,171 [INFO]:  * Restarting with stat
+2025-07-09 09:33:45,403 [WARNING]:  * Debugger is active!
+2025-07-09 09:33:45,409 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:37:21,836 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:37:21] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 09:39:38,803 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\database\\models.py', reloading
+2025-07-09 09:39:38,945 [INFO]:  * Restarting with stat
+2025-07-09 09:39:40,197 [WARNING]:  * Debugger is active!
+2025-07-09 09:39:40,202 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:40:40,799 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\utils\\reports.py', reloading
+2025-07-09 09:40:40,904 [INFO]:  * Restarting with stat
+2025-07-09 09:40:42,180 [WARNING]:  * Debugger is active!
+2025-07-09 09:40:42,185 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:40:52,678 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\utils\\reports.py', reloading
+2025-07-09 09:40:52,776 [INFO]:  * Restarting with stat
+2025-07-09 09:40:54,066 [WARNING]:  * Debugger is active!
+2025-07-09 09:40:54,072 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:41:01,190 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:41:01] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 09:46:31,010 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\utils\\reports.py', reloading
+2025-07-09 09:46:31,164 [INFO]:  * Restarting with stat
+2025-07-09 09:46:32,750 [WARNING]:  * Debugger is active!
+2025-07-09 09:46:32,755 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 09:46:41,013 [INFO]: 127.0.0.1 - - [09/Jul/2025 09:46:41] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:24:38,223 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:24:38] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:25:32,135 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:25:32] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:27:18,775 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:27:18] "[31m[1mPOST /api/vuln-scan HTTP/1.1[0m" 400 -
+2025-07-09 11:28:03,740 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\models\\vuln_scan.py', reloading
+2025-07-09 11:28:04,079 [INFO]:  * Restarting with stat
+2025-07-09 11:29:46,587 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 11:29:46,588 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 11:29:46,589 [INFO]:  * Restarting with stat
+2025-07-09 11:29:47,992 [WARNING]:  * Debugger is active!
+2025-07-09 11:29:47,998 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 11:29:53,659 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:29:53] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:31:36,668 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 11:31:36,669 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 11:31:36,670 [INFO]:  * Restarting with stat
+2025-07-09 11:31:37,920 [WARNING]:  * Debugger is active!
+2025-07-09 11:31:37,925 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 11:31:47,251 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:31:47] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:45:26,205 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\models\\vuln_scan.py', reloading
+2025-07-09 11:45:26,325 [INFO]:  * Restarting with stat
+2025-07-09 11:49:19,811 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 11:49:19,811 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 11:49:19,813 [INFO]:  * Restarting with stat
+2025-07-09 11:49:21,190 [WARNING]:  * Debugger is active!
+2025-07-09 11:49:21,196 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 11:50:05,515 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:50:05] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:52:16,923 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\models\\vuln_scan.py', reloading
+2025-07-09 11:52:17,036 [INFO]:  * Restarting with stat
+2025-07-09 11:52:18,357 [WARNING]:  * Debugger is active!
+2025-07-09 11:52:18,362 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 11:52:24,717 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:52:24] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:53:32,194 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 11:53:32,195 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 11:53:32,198 [INFO]:  * Restarting with stat
+2025-07-09 11:53:33,397 [WARNING]:  * Debugger is active!
+2025-07-09 11:53:33,402 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 11:53:53,421 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:53:53] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:56:35,345 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\models\\vuln_scan.py', reloading
+2025-07-09 11:56:35,457 [INFO]:  * Restarting with stat
+2025-07-09 11:56:36,793 [WARNING]:  * Debugger is active!
+2025-07-09 11:56:36,798 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 11:56:45,140 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:56:45] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 11:57:41,472 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 11:57:41,473 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 11:57:41,475 [INFO]:  * Restarting with stat
+2025-07-09 11:57:42,834 [WARNING]:  * Debugger is active!
+2025-07-09 11:57:42,839 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 11:57:44,631 [INFO]: 127.0.0.1 - - [09/Jul/2025 11:57:44] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 12:01:12,736 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 12:01:12,736 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 12:01:12,737 [INFO]:  * Restarting with stat
+2025-07-09 12:01:14,015 [WARNING]:  * Debugger is active!
+2025-07-09 12:01:14,020 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:01:40,624 [INFO]: 127.0.0.1 - - [09/Jul/2025 12:01:40] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 12:03:52,072 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-09 12:03:52,183 [INFO]:  * Restarting with stat
+2025-07-09 12:03:53,448 [WARNING]:  * Debugger is active!
+2025-07-09 12:03:53,453 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:04:54,938 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-09 12:04:55,030 [INFO]:  * Restarting with stat
+2025-07-09 12:04:56,255 [WARNING]:  * Debugger is active!
+2025-07-09 12:04:56,260 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:05:17,169 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-09 12:05:17,272 [INFO]:  * Restarting with stat
+2025-07-09 12:05:18,639 [WARNING]:  * Debugger is active!
+2025-07-09 12:05:18,645 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:08:36,716 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-09 12:08:36,829 [INFO]:  * Restarting with stat
+2025-07-09 12:08:38,086 [WARNING]:  * Debugger is active!
+2025-07-09 12:08:38,091 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:09:10,698 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 12:09:10,698 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 12:09:10,700 [INFO]:  * Restarting with stat
+2025-07-09 12:09:11,972 [WARNING]:  * Debugger is active!
+2025-07-09 12:09:11,978 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:09:22,992 [INFO]: 127.0.0.1 - - [09/Jul/2025 12:09:22] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 12:10:45,185 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\database\\models.py', reloading
+2025-07-09 12:10:45,315 [INFO]:  * Restarting with stat
+2025-07-09 12:10:46,751 [WARNING]:  * Debugger is active!
+2025-07-09 12:10:46,756 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:11:00,378 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 12:11:00,378 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 12:11:00,380 [INFO]:  * Restarting with stat
+2025-07-09 12:11:01,654 [WARNING]:  * Debugger is active!
+2025-07-09 12:11:01,659 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:11:07,408 [INFO]: 127.0.0.1 - - [09/Jul/2025 12:11:07] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 12:16:04,972 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\database\\models.py', reloading
+2025-07-09 12:16:05,074 [INFO]:  * Restarting with stat
+2025-07-09 12:16:06,361 [WARNING]:  * Debugger is active!
+2025-07-09 12:16:06,366 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:16:08,519 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\models\\vuln_scan.py', reloading
+2025-07-09 12:16:08,601 [INFO]:  * Restarting with stat
+2025-07-09 12:16:09,880 [WARNING]:  * Debugger is active!
+2025-07-09 12:16:09,885 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:17:04,396 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 12:17:04,396 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 12:17:04,397 [INFO]:  * Restarting with stat
+2025-07-09 12:17:05,597 [WARNING]:  * Debugger is active!
+2025-07-09 12:17:05,602 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:17:13,171 [INFO]: 127.0.0.1 - - [09/Jul/2025 12:17:13] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 12:27:46,589 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-09 12:27:46,713 [INFO]:  * Restarting with stat
+2025-07-09 12:27:48,145 [WARNING]:  * Debugger is active!
+2025-07-09 12:27:48,151 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:28:54,312 [INFO]: 127.0.0.1 - - [09/Jul/2025 12:28:54] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 12:32:07,741 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-09 12:32:07,742 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-09 12:32:07,744 [INFO]:  * Restarting with stat
+2025-07-09 12:32:09,247 [WARNING]:  * Debugger is active!
+2025-07-09 12:32:09,252 [INFO]:  * Debugger PIN: 246-581-906
+2025-07-09 12:32:15,506 [INFO]: 127.0.0.1 - - [09/Jul/2025 12:32:15] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-09 12:56:02,837 [INFO]:  * Detected change in 'C:\\Users\\crice\\Desktop\\CyberDashboard\\backend\\app.py', reloading
+2025-07-09 12:56:02,948 [INFO]:  * Restarting with stat
+2025-07-10 12:00:16,593 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-10 12:00:16,593 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-10 12:02:02,374 [WARNING]: No hostname was supplied. Reverting to default 'localhost'
+2025-07-10 12:02:06,556 [ERROR]: Exception on /api/vuln-scan [POST]
+Traceback (most recent call last):
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\utils\functional.py", line 32, in __call__
+    return self.__value__
+           ^^^^^^^^^^^^^^
+AttributeError: 'ChannelPromise' object has no attribute '__value__'. Did you mean: '__call__'?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\connection.py", line 472, in _reraise_as_library_errors
+    yield
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\connection.py", line 459, in _ensure_connection
+    return retry_over_time(
+        self._connection_factory, self.recoverable_connection_errors,
+    ...<2 lines>...
+        callback, timeout=timeout
+    )
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\utils\functional.py", line 318, in retry_over_time
+    return fun(*args, **kwargs)
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\connection.py", line 938, in _connection_factory
+    self._connection = self._establish_connection()
+                       ~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\connection.py", line 860, in _establish_connection
+    conn = self.transport.establish_connection()
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\transport\pyamqp.py", line 203, in establish_connection
+    conn.connect()
+    ~~~~~~~~~~~~^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\amqp\connection.py", line 324, in connect
+    self.transport.connect()
+    ~~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\amqp\transport.py", line 132, in connect
+    self._connect(self.host, self.port, self.connect_timeout)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\amqp\transport.py", line 187, in _connect
+    self.sock.connect(sa)
+    ~~~~~~~~~~~~~~~~~^^^^
+ConnectionRefusedError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\routes\vuln_scan.py", line 20, in vuln_scan
+    task = run_vuln_scan.delay(target)
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\celery\app\task.py", line 444, in delay
+    return self.apply_async(args, kwargs)
+           ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\celery\app\task.py", line 601, in apply_async
+    return app.send_task(
+           ~~~~~~~~~~~~~^
+        self.name, args, kwargs, task_id=task_id, producer=producer,
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<2 lines>...
+        **options
+        ^^^^^^^^^
+    )
+    ^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\celery\app\base.py", line 930, in send_task
+    amqp.send_task_message(P, name, message, **options)
+    ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\celery\app\amqp.py", line 523, in send_task_message
+    ret = producer.publish(
+        body,
+    ...<8 lines>...
+        **properties
+    )
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\messaging.py", line 190, in publish
+    return _publish(
+        body, priority, content_type, content_encoding,
+        headers, properties, routing_key, mandatory, immediate,
+        exchange_name, declare, timeout, confirm_timeout, retry, retry_policy
+    )
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\connection.py", line 556, in _ensured
+    return fun(*args, **kwargs)
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\messaging.py", line 200, in _publish
+    channel = self.channel
+              ^^^^^^^^^^^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\messaging.py", line 224, in _get_channel
+    channel = self._channel = channel()
+                              ~~~~~~~^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\utils\functional.py", line 34, in __call__
+    value = self.__value__ = self.__contract__()
+                             ~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\messaging.py", line 240, in <lambda>
+    channel = ChannelPromise(lambda: connection.default_channel)
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\connection.py", line 957, in default_channel
+    self._ensure_connection(**conn_opts)
+    ~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\connection.py", line 458, in _ensure_connection
+    with ctx():
+         ~~~^^
+  File "C:\Users\crice\AppData\Local\Programs\Python\Python313\Lib\contextlib.py", line 162, in __exit__
+    self.gen.throw(value)
+    ~~~~~~~~~~~~~~^^^^^^^
+  File "C:\Users\crice\Desktop\CyberDashboard\backend\venv\Lib\site-packages\kombu\connection.py", line 476, in _reraise_as_library_errors
+    raise ConnectionError(str(exc)) from exc
+kombu.exceptions.OperationalError: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+2025-07-10 12:02:06,683 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:02:06] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 500 -
+2025-07-10 12:03:45,969 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-10 12:03:45,969 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-10 12:04:06,759 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:04:06] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-10 12:05:19,207 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:05:19] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-10 12:05:43,335 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:05:43] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-10 12:11:04,049 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:11:04] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-10 12:12:51,602 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-10 12:12:51,602 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-10 12:13:13,733 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:13:13] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-10 12:20:32,704 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-10 12:20:32,705 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-10 12:20:36,208 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:20:36] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-10 12:25:24,033 [INFO]: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.134:5000
+2025-07-10 12:25:24,034 [INFO]: [33mPress CTRL+C to quit[0m
+2025-07-10 12:25:27,674 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:25:27] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
+2025-07-10 12:42:31,918 [INFO]: 127.0.0.1 - - [10/Jul/2025 12:42:31] "[35m[1mPOST /api/vuln-scan HTTP/1.1[0m" 202 -
