@@ -1,7 +1,6 @@
 # 🛡️ CyberDashboard - Backend 🔥
 
-Un potente **backend para un dashboard de ciberseguridad**, diseñado para ejecutar y gestionar herramientas de análisis de red desde una API RESTful. Perfecto como proyecto personal y para demostrar tus skills en Python, Celery y Flask 🚀.
-
+Un potente **backend para un dashboard de ciberseguridad**, diseñado para ejecutar y gestionar herramientas de análisis de red desde una API RESTful.
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)  
 [![Flask](https://img.shields.io/badge/Flask-2.3-lightgrey.svg)](https://flask.palletsprojects.com/)  
 [![Celery](https://img.shields.io/badge/Celery-5.x-green.svg)](https://docs.celeryq.dev/)  
