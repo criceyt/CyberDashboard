@@ -6,9 +6,11 @@ import os
 from utils.reports import save_report_json, save_report_html
 from datetime import datetime
 from .tasks import run_vuln_scan
+from flask_jwt_extended import jwt_required
 vuln_scan_bp = Blueprint("vuln_scan", __name__)
 
 @vuln_scan_bp.route("/api/vuln-scan", methods=["POST"])
+@jwt_required()
 def vuln_scan():
     data = request.json
     target = data.get("host")

@@ -1,0 +1,516 @@
+
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <title>Informe de Vulnerabilidades - 192.168.1.145</title>
+        <style>
+            body {
+                font-family: Arial, sans-serif;
+                margin: 0;
+                padding: 0;
+                background: #f7f9fc;
+                color: #333;
+            }
+            header {
+                background: #2c3e50;
+                color: #fff;
+                padding: 20px;
+                text-align: center;
+            }
+            h1 {
+                margin: 0;
+                font-size: 24px;
+            }
+            .container {
+                padding: 20px;
+            }
+            .summary {
+                background: #ecf0f1;
+                padding: 10px;
+                margin-bottom: 20px;
+                border-radius: 8px;
+            }
+            table {
+                width: 100%;
+                border-collapse: collapse;
+                margin-top: 20px;
+            }
+            th, td {
+                padding: 12px;
+                border: 1px solid #ddd;
+                text-align: left;
+            }
+            th {
+                background-color: #34495e;
+                color: white;
+            }
+            .cve-critical {
+                background: #e74c3c;
+                color: #fff;
+            }
+            .cve-high {
+                background: #e67e22;
+                color: #fff;
+            }
+            .cve-medium {
+                background: #f1c40f;
+            }
+            .cve-low {
+                background: #2ecc71;
+                color: #fff;
+            }
+            .cve-link {
+                text-decoration: none;
+                color: #2980b9;
+            }
+        </style>
+    </head>
+    <body>
+        <header>
+            <h1>Informe de Vulnerabilidades</h1>
+            <p>Host escaneado: 192.168.1.145</p>
+            <p>Fecha: 2025-07-11 12:19:38</p>
+        </header>
+        <div class="container">
+            <div class="summary">
+                <h2>Resumen del escaneo</h2>
+                <p>Servicios detectados: 3</p>
+            </div>
+            <h2>Detalle de vulnerabilidades</h2>
+            <table>
+                <tr>
+                    <th>Puerto</th>
+                    <th>Servicio</th>
+                    <th>Versión</th>
+                    <th>CVE</th>
+                    <th>Score</th>
+                </tr>
+                <tr>
+                    <td>22/tcp</td>
+                    <td>ssh</td>
+                    <td>OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2023-38408" class="cve-link">CVE-2023-38408</a>
+                    </td>
+                    <td>9.8</td>
+                </tr>
+                <tr>
+                    <td>22/tcp</td>
+                    <td>ssh</td>
+                    <td>OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2023-28531" class="cve-link">CVE-2023-28531</a>
+                    </td>
+                    <td>9.8</td>
+                </tr>
+                <tr>
+                    <td>22/tcp</td>
+                    <td>ssh</td>
+                    <td>OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2024-6387" class="cve-link">CVE-2024-6387</a>
+                    </td>
+                    <td>8.1</td>
+                </tr>
+                <tr>
+                    <td>22/tcp</td>
+                    <td>ssh</td>
+                    <td>OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2025-26465" class="cve-link">CVE-2025-26465</a>
+                    </td>
+                    <td>6.8</td>
+                </tr>
+                <tr>
+                    <td>22/tcp</td>
+                    <td>ssh</td>
+                    <td>OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2023-51385" class="cve-link">CVE-2023-51385</a>
+                    </td>
+                    <td>6.5</td>
+                </tr>
+                <tr>
+                    <td>22/tcp</td>
+                    <td>ssh</td>
+                    <td>OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2023-48795" class="cve-link">CVE-2023-48795</a>
+                    </td>
+                    <td>5.9</td>
+                </tr>
+                <tr>
+                    <td>22/tcp</td>
+                    <td>ssh</td>
+                    <td>OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2023-51384" class="cve-link">CVE-2023-51384</a>
+                    </td>
+                    <td>5.5</td>
+                </tr>
+                <tr>
+                    <td>22/tcp</td>
+                    <td>ssh</td>
+                    <td>OpenSSH 8.9p1 Ubuntu 3ubuntu0.13 (Ubuntu Linux; protocol 2.0)</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2025-32728" class="cve-link">CVE-2025-32728</a>
+                    </td>
+                    <td>4.3</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2024-38476" class="cve-link">CVE-2024-38476</a>
+                    </td>
+                    <td>9.8</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2024-38474" class="cve-link">CVE-2024-38474</a>
+                    </td>
+                    <td>9.8</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2023-25690" class="cve-link">CVE-2023-25690</a>
+                    </td>
+                    <td>9.8</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2022-31813" class="cve-link">CVE-2022-31813</a>
+                    </td>
+                    <td>9.8</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2022-23943" class="cve-link">CVE-2022-23943</a>
+                    </td>
+                    <td>9.8</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2022-22720" class="cve-link">CVE-2022-22720</a>
+                    </td>
+                    <td>9.8</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2024-40898" class="cve-link">CVE-2024-40898</a>
+                    </td>
+                    <td>9.1</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2024-38475" class="cve-link">CVE-2024-38475</a>
+                    </td>
+                    <td>9.1</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2022-28615" class="cve-link">CVE-2022-28615</a>
+                    </td>
+                    <td>9.1</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2022-22721" class="cve-link">CVE-2022-22721</a>
+                    </td>
+                    <td>9.1</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-critical">
+                        <a href="https://vulners.com/cve/CVE-2022-36760" class="cve-link">CVE-2022-36760</a>
+                    </td>
+                    <td>9.0</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2024-38473" class="cve-link">CVE-2024-38473</a>
+                    </td>
+                    <td>8.1</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2024-39573" class="cve-link">CVE-2024-39573</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2024-38477" class="cve-link">CVE-2024-38477</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2024-38472" class="cve-link">CVE-2024-38472</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2024-27316" class="cve-link">CVE-2024-27316</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2023-31122" class="cve-link">CVE-2023-31122</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2023-27522" class="cve-link">CVE-2023-27522</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2022-30556" class="cve-link">CVE-2022-30556</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2022-30522" class="cve-link">CVE-2022-30522</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2022-29404" class="cve-link">CVE-2022-29404</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2022-26377" class="cve-link">CVE-2022-26377</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2022-22719" class="cve-link">CVE-2022-22719</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2006-20001" class="cve-link">CVE-2006-20001</a>
+                    </td>
+                    <td>7.5</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-high">
+                        <a href="https://vulners.com/cve/CVE-2023-38709" class="cve-link">CVE-2023-38709</a>
+                    </td>
+                    <td>7.3</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2024-24795" class="cve-link">CVE-2024-24795</a>
+                    </td>
+                    <td>6.3</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2024-39884" class="cve-link">CVE-2024-39884</a>
+                    </td>
+                    <td>6.2</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2023-45802" class="cve-link">CVE-2023-45802</a>
+                    </td>
+                    <td>5.9</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2022-37436" class="cve-link">CVE-2022-37436</a>
+                    </td>
+                    <td>5.3</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2022-28614" class="cve-link">CVE-2022-28614</a>
+                    </td>
+                    <td>5.3</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-medium">
+                        <a href="https://vulners.com/cve/CVE-2022-28330" class="cve-link">CVE-2022-28330</a>
+                    </td>
+                    <td>5.3</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-low">
+                        <a href="https://vulners.com/cve/CVE-2025-53020" class="cve-link">CVE-2025-53020</a>
+                    </td>
+                    <td>0.0</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-low">
+                        <a href="https://vulners.com/cve/CVE-2025-49812" class="cve-link">CVE-2025-49812</a>
+                    </td>
+                    <td>0.0</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-low">
+                        <a href="https://vulners.com/cve/CVE-2025-49630" class="cve-link">CVE-2025-49630</a>
+                    </td>
+                    <td>0.0</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-low">
+                        <a href="https://vulners.com/cve/CVE-2025-23048" class="cve-link">CVE-2025-23048</a>
+                    </td>
+                    <td>0.0</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-low">
+                        <a href="https://vulners.com/cve/CVE-2024-47252" class="cve-link">CVE-2024-47252</a>
+                    </td>
+                    <td>0.0</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-low">
+                        <a href="https://vulners.com/cve/CVE-2024-43394" class="cve-link">CVE-2024-43394</a>
+                    </td>
+                    <td>0.0</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-low">
+                        <a href="https://vulners.com/cve/CVE-2024-43204" class="cve-link">CVE-2024-43204</a>
+                    </td>
+                    <td>0.0</td>
+                </tr>
+                <tr>
+                    <td>80/tcp</td>
+                    <td>http</td>
+                    <td>Apache httpd 2.4.52 ((Ubuntu))</td>
+                    <td class="cve-low">
+                        <a href="https://vulners.com/cve/CVE-2024-42516" class="cve-link">CVE-2024-42516</a>
+                    </td>
+                    <td>0.0</td>
+                </tr>
+            </table>
+        </div>
+    </body>
+    </html>
+    
